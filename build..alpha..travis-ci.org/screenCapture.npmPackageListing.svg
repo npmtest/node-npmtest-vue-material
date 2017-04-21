@@ -1,0 +1,1194 @@
+<svg height="19054" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="19054" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 09:24:43 +0000 16257502 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 09:24:43 +0000     1080 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 09:24:43 +0000     4475 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 09:24:43 +0000     1124 bytes  dist/components/mdAvatar/index.css</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 09:24:43 +0000      106 bytes  dist/components/mdAvatar/index.css.map</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 09:24:43 +0000     8945 bytes  dist/components/mdAvatar/index.debug.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 09:24:43 +0000     3293 bytes  dist/components/mdAvatar/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 09:24:43 +0000      407 bytes  dist/components/mdBackdrop/index.css</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 09:24:43 +0000      108 bytes  dist/components/mdBackdrop/index.css.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 09:24:43 +0000     6862 bytes  dist/components/mdBackdrop/index.debug.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 09:24:43 +0000     2005 bytes  dist/components/mdBackdrop/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 09:24:43 +0000     2244 bytes  dist/components/mdBottomBar/index.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 09:24:43 +0000      109 bytes  dist/components/mdBottomBar/index.css.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 09:24:43 +0000    15528 bytes  dist/components/mdBottomBar/index.debug.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 09:24:43 +0000     6998 bytes  dist/components/mdBottomBar/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 09:24:43 +0000     4040 bytes  dist/components/mdButton/index.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 09:24:43 +0000      106 bytes  dist/components/mdButton/index.css.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 09:24:43 +0000    11655 bytes  dist/components/mdButton/index.debug.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 09:24:43 +0000     5460 bytes  dist/components/mdButton/index.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 09:24:43 +0000      738 bytes  dist/components/mdButtonToggle/index.css</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 09:24:43 +0000      112 bytes  dist/components/mdButtonToggle/index.css.map</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 09:24:43 +0000    11222 bytes  dist/components/mdButtonToggle/index.debug.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 09:24:43 +0000     4807 bytes  dist/components/mdButtonToggle/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 09:24:43 +0000     5526 bytes  dist/components/mdCard/index.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdCard/index.css.map</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 09:24:43 +0000    36703 bytes  dist/components/mdCard/index.debug.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 09:24:43 +0000    14223 bytes  dist/components/mdCard/index.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 09:24:43 +0000     1511 bytes  dist/components/mdCheckbox/index.css</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 09:24:43 +0000      108 bytes  dist/components/mdCheckbox/index.css.map</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 09:24:43 +0000    11145 bytes  dist/components/mdCheckbox/index.debug.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 09:24:43 +0000     4798 bytes  dist/components/mdCheckbox/index.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 09:24:43 +0000     1270 bytes  dist/components/mdChips/index.css</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 09:24:43 +0000      105 bytes  dist/components/mdChips/index.css.map</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 09:24:43 +0000    15823 bytes  dist/components/mdChips/index.debug.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 09:24:43 +0000     6508 bytes  dist/components/mdChips/index.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 09:24:43 +0000     3317 bytes  dist/components/mdCore/index.css</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdCore/index.css.map</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 09:24:43 +0000    43574 bytes  dist/components/mdCore/index.debug.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 09:24:43 +0000    20347 bytes  dist/components/mdCore/index.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 09:24:43 +0000     2412 bytes  dist/components/mdDialog/index.css</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 09:24:43 +0000      106 bytes  dist/components/mdDialog/index.css.map</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 09:24:43 +0000    30992 bytes  dist/components/mdDialog/index.debug.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 09:24:43 +0000    11592 bytes  dist/components/mdDialog/index.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 09:24:43 +0000      231 bytes  dist/components/mdDivider/index.css</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 09:24:43 +0000      107 bytes  dist/components/mdDivider/index.css.map</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 09:24:43 +0000     6342 bytes  dist/components/mdDivider/index.debug.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 09:24:43 +0000     1762 bytes  dist/components/mdDivider/index.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 09:24:43 +0000      319 bytes  dist/components/mdFile/index.css</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdFile/index.css.map</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 09:24:43 +0000    36858 bytes  dist/components/mdFile/index.debug.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 09:24:43 +0000    13820 bytes  dist/components/mdFile/index.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 09:24:43 +0000      864 bytes  dist/components/mdIcon/index.css</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdIcon/index.css.map</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 09:24:43 +0000    10976 bytes  dist/components/mdIcon/index.debug.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 09:24:43 +0000     4241 bytes  dist/components/mdIcon/index.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 09:24:43 +0000      694 bytes  dist/components/mdImage/index.css</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 09:24:43 +0000      105 bytes  dist/components/mdImage/index.css.map</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 09:24:43 +0000     9614 bytes  dist/components/mdImage/index.debug.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 09:24:43 +0000     3342 bytes  dist/components/mdImage/index.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 09:24:43 +0000     4237 bytes  dist/components/mdInputContainer/index.css</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 09:24:43 +0000      114 bytes  dist/components/mdInputContainer/index.css.map</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 09:24:43 +0000    30978 bytes  dist/components/mdInputContainer/index.debug.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 09:24:43 +0000    13644 bytes  dist/components/mdInputContainer/index.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 09:24:43 +0000    30546 bytes  dist/components/mdLayout/index.css</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 09:24:43 +0000      106 bytes  dist/components/mdLayout/index.css.map</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 09:24:43 +0000    10902 bytes  dist/components/mdLayout/index.debug.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 09:24:43 +0000     5239 bytes  dist/components/mdLayout/index.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 09:24:43 +0000     5832 bytes  dist/components/mdList/index.css</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdList/index.css.map</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 09:24:43 +0000    74277 bytes  dist/components/mdList/index.debug.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 09:24:43 +0000    26161 bytes  dist/components/mdList/index.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 09:24:43 +0000     2253 bytes  dist/components/mdMenu/index.css</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdMenu/index.css.map</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 09:24:43 +0000    26954 bytes  dist/components/mdMenu/index.debug.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 09:24:43 +0000    11975 bytes  dist/components/mdMenu/index.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 09:24:43 +0000     1164 bytes  dist/components/mdProgress/index.css</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 09:24:43 +0000      108 bytes  dist/components/mdProgress/index.css.map</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 09:24:43 +0000    10033 bytes  dist/components/mdProgress/index.debug.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-21 09:24:43 +0000     4066 bytes  dist/components/mdProgress/index.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-21 09:24:43 +0000     1145 bytes  dist/components/mdRadio/index.css</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-21 09:24:43 +0000      105 bytes  dist/components/mdRadio/index.css.map</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-21 09:24:43 +0000    10790 bytes  dist/components/mdRadio/index.debug.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-21 09:24:43 +0000     4610 bytes  dist/components/mdRadio/index.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-21 09:24:43 +0000     1718 bytes  dist/components/mdSelect/index.css</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-21 09:24:43 +0000      106 bytes  dist/components/mdSelect/index.css.map</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-21 09:24:43 +0000    61415 bytes  dist/components/mdSelect/index.debug.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-21 09:24:43 +0000    24237 bytes  dist/components/mdSelect/index.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-21 09:24:43 +0000     1114 bytes  dist/components/mdSidenav/index.css</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-21 09:24:43 +0000      107 bytes  dist/components/mdSidenav/index.css.map</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-21 09:24:43 +0000    11939 bytes  dist/components/mdSidenav/index.debug.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-21 09:24:43 +0000     4988 bytes  dist/components/mdSidenav/index.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-21 09:24:43 +0000     3817 bytes  dist/components/mdSnackbar/index.css</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-21 09:24:43 +0000      108 bytes  dist/components/mdSnackbar/index.css.map</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-21 09:24:43 +0000    14344 bytes  dist/components/mdSnackbar/index.debug.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-21 09:24:43 +0000     6165 bytes  dist/components/mdSnackbar/index.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-21 09:24:43 +0000     4179 bytes  dist/components/mdSpeedDial/index.css</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-21 09:24:43 +0000      109 bytes  dist/components/mdSpeedDial/index.css.map</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-21 09:24:43 +0000    10173 bytes  dist/components/mdSpeedDial/index.debug.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-21 09:24:43 +0000     3938 bytes  dist/components/mdSpeedDial/index.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-21 09:24:43 +0000     1414 bytes  dist/components/mdSpinner/index.css</tspan>
+<tspan x="10" y="1626">100.  2017-04-21 09:24:43 +0000      107 bytes  dist/components/mdSpinner/index.css.map</tspan>
+<tspan x="10" y="1642">101.  2017-04-21 09:24:43 +0000     9839 bytes  dist/components/mdSpinner/index.debug.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-21 09:24:43 +0000     3672 bytes  dist/components/mdSpinner/index.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-21 09:24:43 +0000      309 bytes  dist/components/mdSubheader/index.css</tspan>
+<tspan x="10" y="1690">104.  2017-04-21 09:24:43 +0000      109 bytes  dist/components/mdSubheader/index.css.map</tspan>
+<tspan x="10" y="1706">105.  2017-04-21 09:24:43 +0000     8787 bytes  dist/components/mdSubheader/index.debug.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-21 09:24:43 +0000     3098 bytes  dist/components/mdSubheader/index.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-21 09:24:43 +0000     1490 bytes  dist/components/mdSwitch/index.css</tspan>
+<tspan x="10" y="1754">108.  2017-04-21 09:24:43 +0000      106 bytes  dist/components/mdSwitch/index.css.map</tspan>
+<tspan x="10" y="1770">109.  2017-04-21 09:24:43 +0000    11928 bytes  dist/components/mdSwitch/index.debug.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-21 09:24:43 +0000     5208 bytes  dist/components/mdSwitch/index.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-21 09:24:43 +0000     6483 bytes  dist/components/mdTable/index.css</tspan>
+<tspan x="10" y="1818">112.  2017-04-21 09:24:43 +0000      105 bytes  dist/components/mdTable/index.css.map</tspan>
+<tspan x="10" y="1834">113.  2017-04-21 09:24:43 +0000    53074 bytes  dist/components/mdTable/index.debug.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-21 09:24:43 +0000    21297 bytes  dist/components/mdTable/index.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-21 09:24:43 +0000     2403 bytes  dist/components/mdTabs/index.css</tspan>
+<tspan x="10" y="1882">116.  2017-04-21 09:24:43 +0000      104 bytes  dist/components/mdTabs/index.css.map</tspan>
+<tspan x="10" y="1898">117.  2017-04-21 09:24:43 +0000    37517 bytes  dist/components/mdTabs/index.debug.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-21 09:24:43 +0000    17242 bytes  dist/components/mdTabs/index.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-21 09:24:43 +0000     2191 bytes  dist/components/mdToolbar/index.css</tspan>
+<tspan x="10" y="1946">120.  2017-04-21 09:24:43 +0000      107 bytes  dist/components/mdToolbar/index.css.map</tspan>
+<tspan x="10" y="1962">121.  2017-04-21 09:24:43 +0000    13544 bytes  dist/components/mdToolbar/index.debug.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-21 09:24:43 +0000     7269 bytes  dist/components/mdToolbar/index.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-21 09:24:43 +0000     1263 bytes  dist/components/mdTooltip/index.css</tspan>
+<tspan x="10" y="2010">124.  2017-04-21 09:24:43 +0000      107 bytes  dist/components/mdTooltip/index.css.map</tspan>
+<tspan x="10" y="2026">125.  2017-04-21 09:24:43 +0000    38727 bytes  dist/components/mdTooltip/index.debug.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-21 09:24:43 +0000    15153 bytes  dist/components/mdTooltip/index.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-21 09:24:43 +0000     3054 bytes  dist/components/mdWhiteframe/index.css</tspan>
+<tspan x="10" y="2074">128.  2017-04-21 09:24:43 +0000      110 bytes  dist/components/mdWhiteframe/index.css.map</tspan>
+<tspan x="10" y="2090">129.  2017-04-21 09:24:43 +0000     6765 bytes  dist/components/mdWhiteframe/index.debug.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-21 09:24:43 +0000     2118 bytes  dist/components/mdWhiteframe/index.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="2138">132.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/assets/avatar.jpg</tspan>
+<tspan x="10" y="2154">133.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/assets/avatar.png</tspan>
+<tspan x="10" y="2170">134.  2017-04-21 09:24:43 +0000    65650 bytes  dist/docs/assets/card-example.jpg</tspan>
+<tspan x="10" y="2186">135.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/assets/card-image-1.jpg</tspan>
+<tspan x="10" y="2202">136.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/assets/card-image-2.jpg</tspan>
+<tspan x="10" y="2218">137.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/assets/card-image-3.jpg</tspan>
+<tspan x="10" y="2234">138.  2017-04-21 09:24:43 +0000    36812 bytes  dist/docs/assets/card-sky.jpg</tspan>
+<tspan x="10" y="2250">139.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/assets/card-weather.png</tspan>
+<tspan x="10" y="2266">140.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/assets/codepen.png</tspan>
+<tspan x="10" y="2282">141.  2017-04-21 09:24:43 +0000    45234 bytes  dist/docs/assets/cover.png</tspan>
+<tspan x="10" y="2298">142.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/assets/favicon/android-chrome-144x144.\</tspan>
+<tspan x="10" y="2314">png</tspan>
+<tspan x="10" y="2330">143.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/assets/favicon/android-chrome-192x192.\</tspan>
+<tspan x="10" y="2346">png</tspan>
+<tspan x="10" y="2362">144.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/assets/favicon/android-chrome-256x256.\</tspan>
+<tspan x="10" y="2378">png</tspan>
+<tspan x="10" y="2394">145.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/assets/favicon/android-chrome-36x36.pn\</tspan>
+<tspan x="10" y="2410">g</tspan>
+<tspan x="10" y="2426">146.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/assets/favicon/android-chrome-384x384.\</tspan>
+<tspan x="10" y="2442">png</tspan>
+<tspan x="10" y="2458">147.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/assets/favicon/android-chrome-48x48.pn\</tspan>
+<tspan x="10" y="2474">g</tspan>
+<tspan x="10" y="2490">148.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/assets/favicon/android-chrome-512x512.\</tspan>
+<tspan x="10" y="2506">png</tspan>
+<tspan x="10" y="2522">149.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/assets/favicon/android-chrome-72x72.pn\</tspan>
+<tspan x="10" y="2538">g</tspan>
+<tspan x="10" y="2554">150.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/assets/favicon/android-chrome-96x96.pn\</tspan>
+<tspan x="10" y="2570">g</tspan>
+<tspan x="10" y="2586">151.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/assets/favicon/apple-touch-icon.png</tspan>
+<tspan x="10" y="2602">152.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/assets/favicon/browserconfig.xml</tspan>
+<tspan x="10" y="2618">153.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/assets/favicon/favicon-16x16.png</tspan>
+<tspan x="10" y="2634">154.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/assets/favicon/favicon-194x194.png</tspan>
+<tspan x="10" y="2650">155.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/assets/favicon/favicon-32x32.png</tspan>
+<tspan x="10" y="2666">156.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/assets/favicon/favicon.ico</tspan>
+<tspan x="10" y="2682">157.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/assets/favicon/manifest.json</tspan>
+<tspan x="10" y="2698">158.  2017-04-21 09:24:43 +0000     1711 bytes  dist/docs/assets/favicon/mstile-150x150.png</tspan>
+<tspan x="10" y="2714">159.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/assets/favicon/safari-pinned-tab.svg</tspan>
+<tspan x="10" y="2730">160.  2017-04-21 09:24:43 +0000      944 bytes  dist/docs/assets/icon-github.svg</tspan>
+<tspan x="10" y="2746">161.  2017-04-21 09:24:43 +0000      199 bytes  dist/docs/assets/icon-home.svg</tspan>
+<tspan x="10" y="2762">162.  2017-04-21 09:24:43 +0000      116 bytes  dist/docs/assets/icon-menu.png</tspan>
+<tspan x="10" y="2778">163.  2017-04-21 09:24:43 +0000   112813 bytes  dist/docs/assets/joker-1.jpg</tspan>
+<tspan x="10" y="2794">164.  2017-04-21 09:24:43 +0000    65498 bytes  dist/docs/assets/joker-2.jpg</tspan>
+<tspan x="10" y="2810">165.  2017-04-21 09:24:43 +0000   116752 bytes  dist/docs/assets/joker-3.jpg</tspan>
+<tspan x="10" y="2826">166.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/assets/logo-vue-material-blue-grey.png</tspan>
+<tspan x="10" y="2842">167.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/assets/logo-vue-material-cyan.png</tspan>
+<tspan x="10" y="2858">168.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/assets/logo-vue-material-default.png</tspan>
+<tspan x="10" y="2874">169.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/assets/logo-vue-material-green.png</tspan>
+<tspan x="10" y="2890">170.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/assets/logo-vue-material-indigo.png</tspan>
+<tspan x="10" y="2906">171.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/assets/logo-vue-material-orange.png</tspan>
+<tspan x="10" y="2922">172.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/assets/logo-vue-material-purple.png</tspan>
+<tspan x="10" y="2938">173.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/assets/logo-vue-material-red.png</tspan>
+<tspan x="10" y="2954">174.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="2970">175.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/assets/vue-material-example.png</tspan>
+<tspan x="10" y="2986">176.  2017-04-21 09:24:43 +0000     4277 bytes  dist/docs/avatar.1c2ea266.js</tspan>
+<tspan x="10" y="3002">177.  2017-04-21 09:24:43 +0000    14896 bytes  dist/docs/base.468dbabb.js</tspan>
+<tspan x="10" y="3018">178.  2017-04-21 09:24:43 +0000    12141 bytes  dist/docs/bottom-bar.d91c96eb.js</tspan>
+<tspan x="10" y="3034">179.  2017-04-21 09:24:43 +0000    14058 bytes  dist/docs/button-toggle.c6150e67.js</tspan>
+<tspan x="10" y="3050">180.  2017-04-21 09:24:43 +0000    14896 bytes  dist/docs/buttons.b9a70faf.js</tspan>
+<tspan x="10" y="3066">181.  2017-04-21 09:24:43 +0000    38075 bytes  dist/docs/card.813a55b3.js</tspan>
+<tspan x="10" y="3082">182.  2017-04-21 09:24:43 +0000    29002 bytes  dist/docs/changelog.html</tspan>
+<tspan x="10" y="3098">183.  2017-04-21 09:24:43 +0000     6505 bytes  dist/docs/checkbox.3d60ec17.js</tspan>
+<tspan x="10" y="3114">184.  2017-04-21 09:24:43 +0000     7775 bytes  dist/docs/chips.0dd4d690.js</tspan>
+<tspan x="10" y="3130">185.  2017-04-21 09:24:43 +0000    21016 bytes  dist/docs/dialog.d27bc67f.js</tspan>
+<tspan x="10" y="3146">186.  2017-04-21 09:24:43 +0000    96265 bytes  dist/docs/docs.5630affd.css</tspan>
+<tspan x="10" y="3162">187.  2017-04-21 09:24:43 +0000   185715 bytes  dist/docs/docs.ef570dcd.js</tspan>
+<tspan x="10" y="3178">188.  2017-04-21 09:24:43 +0000     5523 bytes  dist/docs/file.05ab386d.js</tspan>
+<tspan x="10" y="3194">189.  2017-04-21 09:24:43 +0000     9299 bytes  dist/docs/icon.9c317d12.js</tspan>
+<tspan x="10" y="3210">190.  2017-04-21 09:24:43 +0000     2959 bytes  dist/docs/image-loader.6a229b14.js</tspan>
+<tspan x="10" y="3226">191.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/index.html</tspan>
+<tspan x="10" y="3242">192.  2017-04-21 09:24:43 +0000     4910 bytes  dist/docs/ink-ripple.2e814707.js</tspan>
+<tspan x="10" y="3258">193.  2017-04-21 09:24:43 +0000    14354 bytes  dist/docs/input.76e80edc.js</tspan>
+<tspan x="10" y="3274">194.  2017-04-21 09:24:43 +0000    32937 bytes  dist/docs/list.93bce61c.js</tspan>
+<tspan x="10" y="3290">195.  2017-04-21 09:24:43 +0000     2282 bytes  dist/docs/manifest.1e83b2d7.js</tspan>
+<tspan x="10" y="3306">196.  2017-04-21 09:24:43 +0000    20897 bytes  dist/docs/menu.66f674a5.js</tspan>
+<tspan x="10" y="3322">197.  2017-04-21 09:24:43 +0000     4987 bytes  dist/docs/progress.dbae7eff.js</tspan>
+<tspan x="10" y="3338">198.  2017-04-21 09:24:43 +0000    13753 bytes  dist/docs/radio.0d3a1cf9.js</tspan>
+<tspan x="10" y="3354">199.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.5.1/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="3370">200.  2017-04-21 09:24:43 +0000     6387 bytes  dist/docs/releases/v0.5.1/assets/avatar.jpg</tspan>
+<tspan x="10" y="3386">201.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.5.1/assets/avatar.png</tspan>
+<tspan x="10" y="3402">202.  2017-04-21 09:24:43 +0000    71114 bytes  dist/docs/releases/v0.5.1/assets/card-example.jp\</tspan>
+<tspan x="10" y="3418">g</tspan>
+<tspan x="10" y="3434">203.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.5.1/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="3450">g</tspan>
+<tspan x="10" y="3466">204.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.5.1/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="3482">g</tspan>
+<tspan x="10" y="3498">205.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.5.1/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="3514">g</tspan>
+<tspan x="10" y="3530">206.  2017-04-21 09:24:43 +0000    36911 bytes  dist/docs/releases/v0.5.1/assets/card-sky.jpg</tspan>
+<tspan x="10" y="3546">207.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.5.1/assets/card-weather.pn\</tspan>
+<tspan x="10" y="3562">g</tspan>
+<tspan x="10" y="3578">208.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.5.1/assets/codepen.png</tspan>
+<tspan x="10" y="3594">209.  2017-04-21 09:24:43 +0000    45246 bytes  dist/docs/releases/v0.5.1/assets/cover.png</tspan>
+<tspan x="10" y="3610">210.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3626">-chrome-144x144.png</tspan>
+<tspan x="10" y="3642">211.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3658">-chrome-192x192.png</tspan>
+<tspan x="10" y="3674">212.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3690">-chrome-256x256.png</tspan>
+<tspan x="10" y="3706">213.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3722">-chrome-36x36.png</tspan>
+<tspan x="10" y="3738">214.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3754">-chrome-384x384.png</tspan>
+<tspan x="10" y="3770">215.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3786">-chrome-48x48.png</tspan>
+<tspan x="10" y="3802">216.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3818">-chrome-512x512.png</tspan>
+<tspan x="10" y="3834">217.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3850">-chrome-72x72.png</tspan>
+<tspan x="10" y="3866">218.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.5.1/assets/favicon/android\</tspan>
+<tspan x="10" y="3882">-chrome-96x96.png</tspan>
+<tspan x="10" y="3898">219.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.5.1/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="3914">ouch-icon.png</tspan>
+<tspan x="10" y="3930">220.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.5.1/assets/favicon/browser\</tspan>
+<tspan x="10" y="3946">config.xml</tspan>
+<tspan x="10" y="3962">221.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.5.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="3978">-16x16.png</tspan>
+<tspan x="10" y="3994">222.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.5.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="4010">-194x194.png</tspan>
+<tspan x="10" y="4026">223.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.5.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="4042">-32x32.png</tspan>
+<tspan x="10" y="4058">224.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.5.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="4074">.ico</tspan>
+<tspan x="10" y="4090">225.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.5.1/assets/favicon/manifes\</tspan>
+<tspan x="10" y="4106">t.json</tspan>
+<tspan x="10" y="4122">226.  2017-04-21 09:24:43 +0000     1813 bytes  dist/docs/releases/v0.5.1/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="4138">150x150.png</tspan>
+<tspan x="10" y="4154">227.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.5.1/assets/favicon/safari-\</tspan>
+<tspan x="10" y="4170">pinned-tab.svg</tspan>
+<tspan x="10" y="4186">228.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4202">al-blue-grey.png</tspan>
+<tspan x="10" y="4218">229.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4234">al-cyan.png</tspan>
+<tspan x="10" y="4250">230.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4266">al-default.png</tspan>
+<tspan x="10" y="4282">231.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4298">al-green.png</tspan>
+<tspan x="10" y="4314">232.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4330">al-indigo.png</tspan>
+<tspan x="10" y="4346">233.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4362">al-orange.png</tspan>
+<tspan x="10" y="4378">234.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4394">al-purple.png</tspan>
+<tspan x="10" y="4410">235.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="4426">al-red.png</tspan>
+<tspan x="10" y="4442">236.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.5.1/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="4458">237.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.5.1/assets/vue-material-ex\</tspan>
+<tspan x="10" y="4474">ample.png</tspan>
+<tspan x="10" y="4490">238.  2017-04-21 09:24:43 +0000    15799 bytes  dist/docs/releases/v0.5.1/changelog.html</tspan>
+<tspan x="10" y="4506">239.  2017-04-21 09:24:43 +0000    83133 bytes  dist/docs/releases/v0.5.1/docs.656c9671.css</tspan>
+<tspan x="10" y="4522">240.  2017-04-21 09:24:43 +0000   643754 bytes  dist/docs/releases/v0.5.1/docs.93264ef9.js</tspan>
+<tspan x="10" y="4538">241.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.5.1/index.html</tspan>
+<tspan x="10" y="4554">242.  2017-04-21 09:24:43 +0000      743 bytes  dist/docs/releases/v0.5.1/manifest.d93d0eda.js</tspan>
+<tspan x="10" y="4570">243.  2017-04-21 09:24:43 +0000       23 bytes  dist/docs/releases/v0.5.1/vendor.2044b105.js</tspan>
+<tspan x="10" y="4586">244.  2017-04-21 09:24:43 +0000        3 bytes  dist/docs/releases/v0.5.1/versions.json</tspan>
+<tspan x="10" y="4602">245.  2017-04-21 09:24:43 +0000    30731 bytes  dist/docs/releases/v0.5.2/0.cf567cfa.js</tspan>
+<tspan x="10" y="4618">246.  2017-04-21 09:24:43 +0000    25717 bytes  dist/docs/releases/v0.5.2/1.aebda25a.js</tspan>
+<tspan x="10" y="4634">247.  2017-04-21 09:24:43 +0000     2705 bytes  dist/docs/releases/v0.5.2/10.d6e091c7.js</tspan>
+<tspan x="10" y="4650">248.  2017-04-21 09:24:43 +0000    28232 bytes  dist/docs/releases/v0.5.2/11.57baa516.js</tspan>
+<tspan x="10" y="4666">249.  2017-04-21 09:24:43 +0000     6476 bytes  dist/docs/releases/v0.5.2/12.412e420a.js</tspan>
+<tspan x="10" y="4682">250.  2017-04-21 09:24:43 +0000     4326 bytes  dist/docs/releases/v0.5.2/13.10c43d78.js</tspan>
+<tspan x="10" y="4698">251.  2017-04-21 09:24:43 +0000    38122 bytes  dist/docs/releases/v0.5.2/14.b700e246.js</tspan>
+<tspan x="10" y="4714">252.  2017-04-21 09:24:43 +0000    20043 bytes  dist/docs/releases/v0.5.2/15.0f0501f9.js</tspan>
+<tspan x="10" y="4730">253.  2017-04-21 09:24:43 +0000    20911 bytes  dist/docs/releases/v0.5.2/16.7eaf3c08.js</tspan>
+<tspan x="10" y="4746">254.  2017-04-21 09:24:43 +0000     4728 bytes  dist/docs/releases/v0.5.2/17.bef219a0.js</tspan>
+<tspan x="10" y="4762">255.  2017-04-21 09:24:43 +0000     5653 bytes  dist/docs/releases/v0.5.2/18.d5035c12.js</tspan>
+<tspan x="10" y="4778">256.  2017-04-21 09:24:43 +0000     5361 bytes  dist/docs/releases/v0.5.2/19.88ab05fd.js</tspan>
+<tspan x="10" y="4794">257.  2017-04-21 09:24:43 +0000     8806 bytes  dist/docs/releases/v0.5.2/2.b62f9e71.js</tspan>
+<tspan x="10" y="4810">258.  2017-04-21 09:24:43 +0000    14107 bytes  dist/docs/releases/v0.5.2/20.0980afec.js</tspan>
+<tspan x="10" y="4826">259.  2017-04-21 09:24:43 +0000     7779 bytes  dist/docs/releases/v0.5.2/21.6999e85f.js</tspan>
+<tspan x="10" y="4842">260.  2017-04-21 09:24:43 +0000    13912 bytes  dist/docs/releases/v0.5.2/22.838a8032.js</tspan>
+<tspan x="10" y="4858">261.  2017-04-21 09:24:43 +0000     6654 bytes  dist/docs/releases/v0.5.2/23.91e06240.js</tspan>
+<tspan x="10" y="4874">262.  2017-04-21 09:24:43 +0000    15664 bytes  dist/docs/releases/v0.5.2/24.38594b9c.js</tspan>
+<tspan x="10" y="4890">263.  2017-04-21 09:24:43 +0000    10075 bytes  dist/docs/releases/v0.5.2/25.0a12003e.js</tspan>
+<tspan x="10" y="4906">264.  2017-04-21 09:24:43 +0000     2934 bytes  dist/docs/releases/v0.5.2/26.ce0a9d8d.js</tspan>
+<tspan x="10" y="4922">265.  2017-04-21 09:24:43 +0000     6976 bytes  dist/docs/releases/v0.5.2/3.24b8259b.js</tspan>
+<tspan x="10" y="4938">266.  2017-04-21 09:24:43 +0000    16501 bytes  dist/docs/releases/v0.5.2/4.dda87c6e.js</tspan>
+<tspan x="10" y="4954">267.  2017-04-21 09:24:43 +0000    12626 bytes  dist/docs/releases/v0.5.2/5.4f97396d.js</tspan>
+<tspan x="10" y="4970">268.  2017-04-21 09:24:43 +0000    20937 bytes  dist/docs/releases/v0.5.2/6.914fc411.js</tspan>
+<tspan x="10" y="4986">269.  2017-04-21 09:24:43 +0000    14947 bytes  dist/docs/releases/v0.5.2/7.43232ee9.js</tspan>
+<tspan x="10" y="5002">270.  2017-04-21 09:24:43 +0000    15384 bytes  dist/docs/releases/v0.5.2/8.19299e2b.js</tspan>
+<tspan x="10" y="5018">271.  2017-04-21 09:24:43 +0000    16763 bytes  dist/docs/releases/v0.5.2/9.7a6b4c90.js</tspan>
+<tspan x="10" y="5034">272.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.5.2/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="5050">273.  2017-04-21 09:24:43 +0000     6387 bytes  dist/docs/releases/v0.5.2/assets/avatar.jpg</tspan>
+<tspan x="10" y="5066">274.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.5.2/assets/avatar.png</tspan>
+<tspan x="10" y="5082">275.  2017-04-21 09:24:43 +0000    71114 bytes  dist/docs/releases/v0.5.2/assets/card-example.jp\</tspan>
+<tspan x="10" y="5098">g</tspan>
+<tspan x="10" y="5114">276.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.5.2/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="5130">g</tspan>
+<tspan x="10" y="5146">277.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.5.2/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="5162">g</tspan>
+<tspan x="10" y="5178">278.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.5.2/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="5194">g</tspan>
+<tspan x="10" y="5210">279.  2017-04-21 09:24:43 +0000    36911 bytes  dist/docs/releases/v0.5.2/assets/card-sky.jpg</tspan>
+<tspan x="10" y="5226">280.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.5.2/assets/card-weather.pn\</tspan>
+<tspan x="10" y="5242">g</tspan>
+<tspan x="10" y="5258">281.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.5.2/assets/codepen.png</tspan>
+<tspan x="10" y="5274">282.  2017-04-21 09:24:43 +0000    45246 bytes  dist/docs/releases/v0.5.2/assets/cover.png</tspan>
+<tspan x="10" y="5290">283.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5306">-chrome-144x144.png</tspan>
+<tspan x="10" y="5322">284.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5338">-chrome-192x192.png</tspan>
+<tspan x="10" y="5354">285.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5370">-chrome-256x256.png</tspan>
+<tspan x="10" y="5386">286.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5402">-chrome-36x36.png</tspan>
+<tspan x="10" y="5418">287.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5434">-chrome-384x384.png</tspan>
+<tspan x="10" y="5450">288.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5466">-chrome-48x48.png</tspan>
+<tspan x="10" y="5482">289.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5498">-chrome-512x512.png</tspan>
+<tspan x="10" y="5514">290.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5530">-chrome-72x72.png</tspan>
+<tspan x="10" y="5546">291.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.5.2/assets/favicon/android\</tspan>
+<tspan x="10" y="5562">-chrome-96x96.png</tspan>
+<tspan x="10" y="5578">292.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.5.2/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="5594">ouch-icon.png</tspan>
+<tspan x="10" y="5610">293.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.5.2/assets/favicon/browser\</tspan>
+<tspan x="10" y="5626">config.xml</tspan>
+<tspan x="10" y="5642">294.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.5.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="5658">-16x16.png</tspan>
+<tspan x="10" y="5674">295.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.5.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="5690">-194x194.png</tspan>
+<tspan x="10" y="5706">296.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.5.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="5722">-32x32.png</tspan>
+<tspan x="10" y="5738">297.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.5.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="5754">.ico</tspan>
+<tspan x="10" y="5770">298.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.5.2/assets/favicon/manifes\</tspan>
+<tspan x="10" y="5786">t.json</tspan>
+<tspan x="10" y="5802">299.  2017-04-21 09:24:43 +0000     1813 bytes  dist/docs/releases/v0.5.2/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="5818">150x150.png</tspan>
+<tspan x="10" y="5834">300.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.5.2/assets/favicon/safari-\</tspan>
+<tspan x="10" y="5850">pinned-tab.svg</tspan>
+<tspan x="10" y="5866">301.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="5882">al-blue-grey.png</tspan>
+<tspan x="10" y="5898">302.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="5914">al-cyan.png</tspan>
+<tspan x="10" y="5930">303.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="5946">al-default.png</tspan>
+<tspan x="10" y="5962">304.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="5978">al-green.png</tspan>
+<tspan x="10" y="5994">305.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="6010">al-indigo.png</tspan>
+<tspan x="10" y="6026">306.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="6042">al-orange.png</tspan>
+<tspan x="10" y="6058">307.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="6074">al-purple.png</tspan>
+<tspan x="10" y="6090">308.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.5.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="6106">al-red.png</tspan>
+<tspan x="10" y="6122">309.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.5.2/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="6138">310.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.5.2/assets/vue-material-ex\</tspan>
+<tspan x="10" y="6154">ample.png</tspan>
+<tspan x="10" y="6170">311.  2017-04-21 09:24:43 +0000    17402 bytes  dist/docs/releases/v0.5.2/changelog.html</tspan>
+<tspan x="10" y="6186">312.  2017-04-21 09:24:43 +0000    77394 bytes  dist/docs/releases/v0.5.2/docs.0b915d3f.css</tspan>
+<tspan x="10" y="6202">313.  2017-04-21 09:24:43 +0000   299460 bytes  dist/docs/releases/v0.5.2/docs.80bc43c9.js</tspan>
+<tspan x="10" y="6218">314.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.5.2/index.html</tspan>
+<tspan x="10" y="6234">315.  2017-04-21 09:24:43 +0000     1145 bytes  dist/docs/releases/v0.5.2/manifest.013bc964.js</tspan>
+<tspan x="10" y="6250">316.  2017-04-21 09:24:43 +0000       25 bytes  dist/docs/releases/v0.5.2/vendor.1366249b.js</tspan>
+<tspan x="10" y="6266">317.  2017-04-21 09:24:43 +0000       19 bytes  dist/docs/releases/v0.5.2/versions.json</tspan>
+<tspan x="10" y="6282">318.  2017-04-21 09:24:43 +0000    25844 bytes  dist/docs/releases/v0.6.0/0.8985122d.js</tspan>
+<tspan x="10" y="6298">319.  2017-04-21 09:24:43 +0000     8923 bytes  dist/docs/releases/v0.6.0/1.06ee0bed.js</tspan>
+<tspan x="10" y="6314">320.  2017-04-21 09:24:43 +0000    16875 bytes  dist/docs/releases/v0.6.0/10.c7e6c3e5.js</tspan>
+<tspan x="10" y="6330">321.  2017-04-21 09:24:43 +0000     2816 bytes  dist/docs/releases/v0.6.0/11.fd21e8e8.js</tspan>
+<tspan x="10" y="6346">322.  2017-04-21 09:24:43 +0000    30606 bytes  dist/docs/releases/v0.6.0/12.cb3c1a2d.js</tspan>
+<tspan x="10" y="6362">323.  2017-04-21 09:24:43 +0000    28343 bytes  dist/docs/releases/v0.6.0/13.1cdad18e.js</tspan>
+<tspan x="10" y="6378">324.  2017-04-21 09:24:43 +0000     6587 bytes  dist/docs/releases/v0.6.0/14.fd41ec35.js</tspan>
+<tspan x="10" y="6394">325.  2017-04-21 09:24:43 +0000     4437 bytes  dist/docs/releases/v0.6.0/15.58889e3a.js</tspan>
+<tspan x="10" y="6410">326.  2017-04-21 09:24:43 +0000    38235 bytes  dist/docs/releases/v0.6.0/16.e2efe67b.js</tspan>
+<tspan x="10" y="6426">327.  2017-04-21 09:24:43 +0000    23123 bytes  dist/docs/releases/v0.6.0/17.0d923825.js</tspan>
+<tspan x="10" y="6442">328.  2017-04-21 09:24:43 +0000    21022 bytes  dist/docs/releases/v0.6.0/18.fa7c7df1.js</tspan>
+<tspan x="10" y="6458">329.  2017-04-21 09:24:43 +0000     5070 bytes  dist/docs/releases/v0.6.0/19.62eeb5ff.js</tspan>
+<tspan x="10" y="6474">330.  2017-04-21 09:24:43 +0000     7912 bytes  dist/docs/releases/v0.6.0/2.c10fbd04.js</tspan>
+<tspan x="10" y="6490">331.  2017-04-21 09:24:43 +0000     6947 bytes  dist/docs/releases/v0.6.0/20.861ee4ae.js</tspan>
+<tspan x="10" y="6506">332.  2017-04-21 09:24:43 +0000     5764 bytes  dist/docs/releases/v0.6.0/21.9fa5a6ef.js</tspan>
+<tspan x="10" y="6522">333.  2017-04-21 09:24:43 +0000     5472 bytes  dist/docs/releases/v0.6.0/22.5475b341.js</tspan>
+<tspan x="10" y="6538">334.  2017-04-21 09:24:43 +0000    14218 bytes  dist/docs/releases/v0.6.0/23.56fe1118.js</tspan>
+<tspan x="10" y="6554">335.  2017-04-21 09:24:43 +0000     7776 bytes  dist/docs/releases/v0.6.0/24.d3091d84.js</tspan>
+<tspan x="10" y="6570">336.  2017-04-21 09:24:43 +0000    13911 bytes  dist/docs/releases/v0.6.0/25.bb881f9f.js</tspan>
+<tspan x="10" y="6586">337.  2017-04-21 09:24:43 +0000     3059 bytes  dist/docs/releases/v0.6.0/26.6c68ad23.js</tspan>
+<tspan x="10" y="6602">338.  2017-04-21 09:24:43 +0000     5681 bytes  dist/docs/releases/v0.6.0/27.dac46d92.js</tspan>
+<tspan x="10" y="6618">339.  2017-04-21 09:24:43 +0000     7933 bytes  dist/docs/releases/v0.6.0/28.3b5484f8.js</tspan>
+<tspan x="10" y="6634">340.  2017-04-21 09:24:43 +0000     6663 bytes  dist/docs/releases/v0.6.0/29.cf5daabc.js</tspan>
+<tspan x="10" y="6650">341.  2017-04-21 09:24:43 +0000     7089 bytes  dist/docs/releases/v0.6.0/3.937606f3.js</tspan>
+<tspan x="10" y="6666">342.  2017-04-21 09:24:43 +0000    15661 bytes  dist/docs/releases/v0.6.0/30.a9cd11af.js</tspan>
+<tspan x="10" y="6682">343.  2017-04-21 09:24:43 +0000    10072 bytes  dist/docs/releases/v0.6.0/31.111340a6.js</tspan>
+<tspan x="10" y="6698">344.  2017-04-21 09:24:43 +0000    16614 bytes  dist/docs/releases/v0.6.0/4.94654a0e.js</tspan>
+<tspan x="10" y="6714">345.  2017-04-21 09:24:43 +0000     5152 bytes  dist/docs/releases/v0.6.0/5.f8a38ce8.js</tspan>
+<tspan x="10" y="6730">346.  2017-04-21 09:24:43 +0000    14516 bytes  dist/docs/releases/v0.6.0/6.6d779ad8.js</tspan>
+<tspan x="10" y="6746">347.  2017-04-21 09:24:43 +0000    21050 bytes  dist/docs/releases/v0.6.0/7.fea19aba.js</tspan>
+<tspan x="10" y="6762">348.  2017-04-21 09:24:43 +0000    15060 bytes  dist/docs/releases/v0.6.0/8.4a1e48b3.js</tspan>
+<tspan x="10" y="6778">349.  2017-04-21 09:24:43 +0000     9619 bytes  dist/docs/releases/v0.6.0/9.3f930309.js</tspan>
+<tspan x="10" y="6794">350.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.6.0/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="6810">351.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.0/assets/avatar.jpg</tspan>
+<tspan x="10" y="6826">352.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.6.0/assets/avatar.png</tspan>
+<tspan x="10" y="6842">353.  2017-04-21 09:24:43 +0000    65650 bytes  dist/docs/releases/v0.6.0/assets/card-example.jp\</tspan>
+<tspan x="10" y="6858">g</tspan>
+<tspan x="10" y="6874">354.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.6.0/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="6890">g</tspan>
+<tspan x="10" y="6906">355.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.6.0/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="6922">g</tspan>
+<tspan x="10" y="6938">356.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.6.0/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="6954">g</tspan>
+<tspan x="10" y="6970">357.  2017-04-21 09:24:43 +0000    36812 bytes  dist/docs/releases/v0.6.0/assets/card-sky.jpg</tspan>
+<tspan x="10" y="6986">358.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.6.0/assets/card-weather.pn\</tspan>
+<tspan x="10" y="7002">g</tspan>
+<tspan x="10" y="7018">359.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.6.0/assets/codepen.png</tspan>
+<tspan x="10" y="7034">360.  2017-04-21 09:24:43 +0000    45234 bytes  dist/docs/releases/v0.6.0/assets/cover.png</tspan>
+<tspan x="10" y="7050">361.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7066">-chrome-144x144.png</tspan>
+<tspan x="10" y="7082">362.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7098">-chrome-192x192.png</tspan>
+<tspan x="10" y="7114">363.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7130">-chrome-256x256.png</tspan>
+<tspan x="10" y="7146">364.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7162">-chrome-36x36.png</tspan>
+<tspan x="10" y="7178">365.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7194">-chrome-384x384.png</tspan>
+<tspan x="10" y="7210">366.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7226">-chrome-48x48.png</tspan>
+<tspan x="10" y="7242">367.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7258">-chrome-512x512.png</tspan>
+<tspan x="10" y="7274">368.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7290">-chrome-72x72.png</tspan>
+<tspan x="10" y="7306">369.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.6.0/assets/favicon/android\</tspan>
+<tspan x="10" y="7322">-chrome-96x96.png</tspan>
+<tspan x="10" y="7338">370.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.6.0/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="7354">ouch-icon.png</tspan>
+<tspan x="10" y="7370">371.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.6.0/assets/favicon/browser\</tspan>
+<tspan x="10" y="7386">config.xml</tspan>
+<tspan x="10" y="7402">372.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.6.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="7418">-16x16.png</tspan>
+<tspan x="10" y="7434">373.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.6.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="7450">-194x194.png</tspan>
+<tspan x="10" y="7466">374.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.6.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="7482">-32x32.png</tspan>
+<tspan x="10" y="7498">375.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.6.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="7514">.ico</tspan>
+<tspan x="10" y="7530">376.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.6.0/assets/favicon/manifes\</tspan>
+<tspan x="10" y="7546">t.json</tspan>
+<tspan x="10" y="7562">377.  2017-04-21 09:24:43 +0000     1711 bytes  dist/docs/releases/v0.6.0/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="7578">150x150.png</tspan>
+<tspan x="10" y="7594">378.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.6.0/assets/favicon/safari-\</tspan>
+<tspan x="10" y="7610">pinned-tab.svg</tspan>
+<tspan x="10" y="7626">379.  2017-04-21 09:24:43 +0000      944 bytes  dist/docs/releases/v0.6.0/assets/icon-github.svg</tspan>
+<tspan x="10" y="7642">380.  2017-04-21 09:24:43 +0000      199 bytes  dist/docs/releases/v0.6.0/assets/icon-home.svg</tspan>
+<tspan x="10" y="7658">381.  2017-04-21 09:24:43 +0000      116 bytes  dist/docs/releases/v0.6.0/assets/icon-menu.png</tspan>
+<tspan x="10" y="7674">382.  2017-04-21 09:24:43 +0000   112813 bytes  dist/docs/releases/v0.6.0/assets/joker-1.jpg</tspan>
+<tspan x="10" y="7690">383.  2017-04-21 09:24:43 +0000    65498 bytes  dist/docs/releases/v0.6.0/assets/joker-2.jpg</tspan>
+<tspan x="10" y="7706">384.  2017-04-21 09:24:43 +0000   116752 bytes  dist/docs/releases/v0.6.0/assets/joker-3.jpg</tspan>
+<tspan x="10" y="7722">385.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7738">al-blue-grey.png</tspan>
+<tspan x="10" y="7754">386.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7770">al-cyan.png</tspan>
+<tspan x="10" y="7786">387.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7802">al-default.png</tspan>
+<tspan x="10" y="7818">388.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7834">al-green.png</tspan>
+<tspan x="10" y="7850">389.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7866">al-indigo.png</tspan>
+<tspan x="10" y="7882">390.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7898">al-orange.png</tspan>
+<tspan x="10" y="7914">391.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7930">al-purple.png</tspan>
+<tspan x="10" y="7946">392.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="7962">al-red.png</tspan>
+<tspan x="10" y="7978">393.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.0/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="7994">394.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.6.0/assets/vue-material-ex\</tspan>
+<tspan x="10" y="8010">ample.png</tspan>
+<tspan x="10" y="8026">395.  2017-04-21 09:24:43 +0000    19937 bytes  dist/docs/releases/v0.6.0/changelog.html</tspan>
+<tspan x="10" y="8042">396.  2017-04-21 09:24:43 +0000   198102 bytes  dist/docs/releases/v0.6.0/docs.3e2ba22f.js</tspan>
+<tspan x="10" y="8058">397.  2017-04-21 09:24:43 +0000    78806 bytes  dist/docs/releases/v0.6.0/docs.77420282.css</tspan>
+<tspan x="10" y="8074">398.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.6.0/index.html</tspan>
+<tspan x="10" y="8090">399.  2017-04-21 09:24:43 +0000     1676 bytes  dist/docs/releases/v0.6.0/manifest.5f563a9d.js</tspan>
+<tspan x="10" y="8106">400.  2017-04-21 09:24:43 +0000   134688 bytes  dist/docs/releases/v0.6.0/vendor.ae4be299.js</tspan>
+<tspan x="10" y="8122">401.  2017-04-21 09:24:43 +0000       28 bytes  dist/docs/releases/v0.6.0/versions.json</tspan>
+<tspan x="10" y="8138">402.  2017-04-21 09:24:43 +0000    25844 bytes  dist/docs/releases/v0.6.1/0.8985122d.js</tspan>
+<tspan x="10" y="8154">403.  2017-04-21 09:24:43 +0000     8923 bytes  dist/docs/releases/v0.6.1/1.06ee0bed.js</tspan>
+<tspan x="10" y="8170">404.  2017-04-21 09:24:43 +0000    16875 bytes  dist/docs/releases/v0.6.1/10.c7e6c3e5.js</tspan>
+<tspan x="10" y="8186">405.  2017-04-21 09:24:43 +0000     2816 bytes  dist/docs/releases/v0.6.1/11.fd21e8e8.js</tspan>
+<tspan x="10" y="8202">406.  2017-04-21 09:24:43 +0000    30606 bytes  dist/docs/releases/v0.6.1/12.cb3c1a2d.js</tspan>
+<tspan x="10" y="8218">407.  2017-04-21 09:24:43 +0000    28343 bytes  dist/docs/releases/v0.6.1/13.1cdad18e.js</tspan>
+<tspan x="10" y="8234">408.  2017-04-21 09:24:43 +0000     6587 bytes  dist/docs/releases/v0.6.1/14.fd41ec35.js</tspan>
+<tspan x="10" y="8250">409.  2017-04-21 09:24:43 +0000     4437 bytes  dist/docs/releases/v0.6.1/15.58889e3a.js</tspan>
+<tspan x="10" y="8266">410.  2017-04-21 09:24:43 +0000    38235 bytes  dist/docs/releases/v0.6.1/16.e2efe67b.js</tspan>
+<tspan x="10" y="8282">411.  2017-04-21 09:24:43 +0000    23123 bytes  dist/docs/releases/v0.6.1/17.0d923825.js</tspan>
+<tspan x="10" y="8298">412.  2017-04-21 09:24:43 +0000    21022 bytes  dist/docs/releases/v0.6.1/18.fa7c7df1.js</tspan>
+<tspan x="10" y="8314">413.  2017-04-21 09:24:43 +0000     5070 bytes  dist/docs/releases/v0.6.1/19.62eeb5ff.js</tspan>
+<tspan x="10" y="8330">414.  2017-04-21 09:24:43 +0000     7912 bytes  dist/docs/releases/v0.6.1/2.c10fbd04.js</tspan>
+<tspan x="10" y="8346">415.  2017-04-21 09:24:43 +0000     6947 bytes  dist/docs/releases/v0.6.1/20.861ee4ae.js</tspan>
+<tspan x="10" y="8362">416.  2017-04-21 09:24:43 +0000     5764 bytes  dist/docs/releases/v0.6.1/21.9fa5a6ef.js</tspan>
+<tspan x="10" y="8378">417.  2017-04-21 09:24:43 +0000     5472 bytes  dist/docs/releases/v0.6.1/22.5475b341.js</tspan>
+<tspan x="10" y="8394">418.  2017-04-21 09:24:43 +0000    14218 bytes  dist/docs/releases/v0.6.1/23.56fe1118.js</tspan>
+<tspan x="10" y="8410">419.  2017-04-21 09:24:43 +0000     7776 bytes  dist/docs/releases/v0.6.1/24.d3091d84.js</tspan>
+<tspan x="10" y="8426">420.  2017-04-21 09:24:43 +0000    13911 bytes  dist/docs/releases/v0.6.1/25.bb881f9f.js</tspan>
+<tspan x="10" y="8442">421.  2017-04-21 09:24:43 +0000     3059 bytes  dist/docs/releases/v0.6.1/26.6c68ad23.js</tspan>
+<tspan x="10" y="8458">422.  2017-04-21 09:24:43 +0000     5681 bytes  dist/docs/releases/v0.6.1/27.dac46d92.js</tspan>
+<tspan x="10" y="8474">423.  2017-04-21 09:24:43 +0000     7933 bytes  dist/docs/releases/v0.6.1/28.3b5484f8.js</tspan>
+<tspan x="10" y="8490">424.  2017-04-21 09:24:43 +0000     6663 bytes  dist/docs/releases/v0.6.1/29.cf5daabc.js</tspan>
+<tspan x="10" y="8506">425.  2017-04-21 09:24:43 +0000     7089 bytes  dist/docs/releases/v0.6.1/3.937606f3.js</tspan>
+<tspan x="10" y="8522">426.  2017-04-21 09:24:43 +0000    15661 bytes  dist/docs/releases/v0.6.1/30.a9cd11af.js</tspan>
+<tspan x="10" y="8538">427.  2017-04-21 09:24:43 +0000    10072 bytes  dist/docs/releases/v0.6.1/31.111340a6.js</tspan>
+<tspan x="10" y="8554">428.  2017-04-21 09:24:43 +0000    16614 bytes  dist/docs/releases/v0.6.1/4.94654a0e.js</tspan>
+<tspan x="10" y="8570">429.  2017-04-21 09:24:43 +0000     5152 bytes  dist/docs/releases/v0.6.1/5.f8a38ce8.js</tspan>
+<tspan x="10" y="8586">430.  2017-04-21 09:24:43 +0000    14516 bytes  dist/docs/releases/v0.6.1/6.6d779ad8.js</tspan>
+<tspan x="10" y="8602">431.  2017-04-21 09:24:43 +0000    21050 bytes  dist/docs/releases/v0.6.1/7.fea19aba.js</tspan>
+<tspan x="10" y="8618">432.  2017-04-21 09:24:43 +0000    15060 bytes  dist/docs/releases/v0.6.1/8.4a1e48b3.js</tspan>
+<tspan x="10" y="8634">433.  2017-04-21 09:24:43 +0000     9619 bytes  dist/docs/releases/v0.6.1/9.3f930309.js</tspan>
+<tspan x="10" y="8650">434.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.6.1/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="8666">435.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.1/assets/avatar.jpg</tspan>
+<tspan x="10" y="8682">436.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.6.1/assets/avatar.png</tspan>
+<tspan x="10" y="8698">437.  2017-04-21 09:24:43 +0000    65650 bytes  dist/docs/releases/v0.6.1/assets/card-example.jp\</tspan>
+<tspan x="10" y="8714">g</tspan>
+<tspan x="10" y="8730">438.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.6.1/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="8746">g</tspan>
+<tspan x="10" y="8762">439.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.6.1/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="8778">g</tspan>
+<tspan x="10" y="8794">440.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.6.1/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="8810">g</tspan>
+<tspan x="10" y="8826">441.  2017-04-21 09:24:43 +0000    36812 bytes  dist/docs/releases/v0.6.1/assets/card-sky.jpg</tspan>
+<tspan x="10" y="8842">442.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.6.1/assets/card-weather.pn\</tspan>
+<tspan x="10" y="8858">g</tspan>
+<tspan x="10" y="8874">443.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.6.1/assets/codepen.png</tspan>
+<tspan x="10" y="8890">444.  2017-04-21 09:24:43 +0000    45234 bytes  dist/docs/releases/v0.6.1/assets/cover.png</tspan>
+<tspan x="10" y="8906">445.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="8922">-chrome-144x144.png</tspan>
+<tspan x="10" y="8938">446.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="8954">-chrome-192x192.png</tspan>
+<tspan x="10" y="8970">447.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="8986">-chrome-256x256.png</tspan>
+<tspan x="10" y="9002">448.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="9018">-chrome-36x36.png</tspan>
+<tspan x="10" y="9034">449.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="9050">-chrome-384x384.png</tspan>
+<tspan x="10" y="9066">450.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="9082">-chrome-48x48.png</tspan>
+<tspan x="10" y="9098">451.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="9114">-chrome-512x512.png</tspan>
+<tspan x="10" y="9130">452.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="9146">-chrome-72x72.png</tspan>
+<tspan x="10" y="9162">453.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.6.1/assets/favicon/android\</tspan>
+<tspan x="10" y="9178">-chrome-96x96.png</tspan>
+<tspan x="10" y="9194">454.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.6.1/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="9210">ouch-icon.png</tspan>
+<tspan x="10" y="9226">455.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.6.1/assets/favicon/browser\</tspan>
+<tspan x="10" y="9242">config.xml</tspan>
+<tspan x="10" y="9258">456.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.6.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="9274">-16x16.png</tspan>
+<tspan x="10" y="9290">457.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.6.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="9306">-194x194.png</tspan>
+<tspan x="10" y="9322">458.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.6.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="9338">-32x32.png</tspan>
+<tspan x="10" y="9354">459.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.6.1/assets/favicon/favicon\</tspan>
+<tspan x="10" y="9370">.ico</tspan>
+<tspan x="10" y="9386">460.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.6.1/assets/favicon/manifes\</tspan>
+<tspan x="10" y="9402">t.json</tspan>
+<tspan x="10" y="9418">461.  2017-04-21 09:24:43 +0000     1711 bytes  dist/docs/releases/v0.6.1/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="9434">150x150.png</tspan>
+<tspan x="10" y="9450">462.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.6.1/assets/favicon/safari-\</tspan>
+<tspan x="10" y="9466">pinned-tab.svg</tspan>
+<tspan x="10" y="9482">463.  2017-04-21 09:24:43 +0000      944 bytes  dist/docs/releases/v0.6.1/assets/icon-github.svg</tspan>
+<tspan x="10" y="9498">464.  2017-04-21 09:24:43 +0000      199 bytes  dist/docs/releases/v0.6.1/assets/icon-home.svg</tspan>
+<tspan x="10" y="9514">465.  2017-04-21 09:24:43 +0000      116 bytes  dist/docs/releases/v0.6.1/assets/icon-menu.png</tspan>
+<tspan x="10" y="9530">466.  2017-04-21 09:24:43 +0000   112813 bytes  dist/docs/releases/v0.6.1/assets/joker-1.jpg</tspan>
+<tspan x="10" y="9546">467.  2017-04-21 09:24:43 +0000    65498 bytes  dist/docs/releases/v0.6.1/assets/joker-2.jpg</tspan>
+<tspan x="10" y="9562">468.  2017-04-21 09:24:43 +0000   116752 bytes  dist/docs/releases/v0.6.1/assets/joker-3.jpg</tspan>
+<tspan x="10" y="9578">469.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9594">al-blue-grey.png</tspan>
+<tspan x="10" y="9610">470.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9626">al-cyan.png</tspan>
+<tspan x="10" y="9642">471.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9658">al-default.png</tspan>
+<tspan x="10" y="9674">472.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9690">al-green.png</tspan>
+<tspan x="10" y="9706">473.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9722">al-indigo.png</tspan>
+<tspan x="10" y="9738">474.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9754">al-orange.png</tspan>
+<tspan x="10" y="9770">475.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9786">al-purple.png</tspan>
+<tspan x="10" y="9802">476.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.1/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="9818">al-red.png</tspan>
+<tspan x="10" y="9834">477.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.1/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="9850">478.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.6.1/assets/vue-material-ex\</tspan>
+<tspan x="10" y="9866">ample.png</tspan>
+<tspan x="10" y="9882">479.  2017-04-21 09:24:43 +0000    20691 bytes  dist/docs/releases/v0.6.1/changelog.html</tspan>
+<tspan x="10" y="9898">480.  2017-04-21 09:24:43 +0000   198196 bytes  dist/docs/releases/v0.6.1/docs.2897e9e6.js</tspan>
+<tspan x="10" y="9914">481.  2017-04-21 09:24:43 +0000    78806 bytes  dist/docs/releases/v0.6.1/docs.77420282.css</tspan>
+<tspan x="10" y="9930">482.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.6.1/index.html</tspan>
+<tspan x="10" y="9946">483.  2017-04-21 09:24:43 +0000     1676 bytes  dist/docs/releases/v0.6.1/manifest.b7f52b44.js</tspan>
+<tspan x="10" y="9962">484.  2017-04-21 09:24:43 +0000   134688 bytes  dist/docs/releases/v0.6.1/vendor.ae4be299.js</tspan>
+<tspan x="10" y="9978">485.  2017-04-21 09:24:43 +0000       37 bytes  dist/docs/releases/v0.6.1/versions.json</tspan>
+<tspan x="10" y="9994">486.  2017-04-21 09:24:43 +0000    25844 bytes  dist/docs/releases/v0.6.2/0.8985122d.js</tspan>
+<tspan x="10" y="10010">487.  2017-04-21 09:24:43 +0000     8923 bytes  dist/docs/releases/v0.6.2/1.06ee0bed.js</tspan>
+<tspan x="10" y="10026">488.  2017-04-21 09:24:43 +0000    16875 bytes  dist/docs/releases/v0.6.2/10.c7e6c3e5.js</tspan>
+<tspan x="10" y="10042">489.  2017-04-21 09:24:43 +0000     2816 bytes  dist/docs/releases/v0.6.2/11.fd21e8e8.js</tspan>
+<tspan x="10" y="10058">490.  2017-04-21 09:24:43 +0000    30606 bytes  dist/docs/releases/v0.6.2/12.cb3c1a2d.js</tspan>
+<tspan x="10" y="10074">491.  2017-04-21 09:24:43 +0000    28343 bytes  dist/docs/releases/v0.6.2/13.1cdad18e.js</tspan>
+<tspan x="10" y="10090">492.  2017-04-21 09:24:43 +0000     6587 bytes  dist/docs/releases/v0.6.2/14.fd41ec35.js</tspan>
+<tspan x="10" y="10106">493.  2017-04-21 09:24:43 +0000     4437 bytes  dist/docs/releases/v0.6.2/15.58889e3a.js</tspan>
+<tspan x="10" y="10122">494.  2017-04-21 09:24:43 +0000    38235 bytes  dist/docs/releases/v0.6.2/16.e2efe67b.js</tspan>
+<tspan x="10" y="10138">495.  2017-04-21 09:24:43 +0000    23123 bytes  dist/docs/releases/v0.6.2/17.0d923825.js</tspan>
+<tspan x="10" y="10154">496.  2017-04-21 09:24:43 +0000    21022 bytes  dist/docs/releases/v0.6.2/18.fa7c7df1.js</tspan>
+<tspan x="10" y="10170">497.  2017-04-21 09:24:43 +0000     5070 bytes  dist/docs/releases/v0.6.2/19.62eeb5ff.js</tspan>
+<tspan x="10" y="10186">498.  2017-04-21 09:24:43 +0000     7912 bytes  dist/docs/releases/v0.6.2/2.c10fbd04.js</tspan>
+<tspan x="10" y="10202">499.  2017-04-21 09:24:43 +0000     6947 bytes  dist/docs/releases/v0.6.2/20.861ee4ae.js</tspan>
+<tspan x="10" y="10218">500.  2017-04-21 09:24:43 +0000     5764 bytes  dist/docs/releases/v0.6.2/21.9fa5a6ef.js</tspan>
+<tspan x="10" y="10234">501.  2017-04-21 09:24:43 +0000     5472 bytes  dist/docs/releases/v0.6.2/22.5475b341.js</tspan>
+<tspan x="10" y="10250">502.  2017-04-21 09:24:43 +0000    14218 bytes  dist/docs/releases/v0.6.2/23.56fe1118.js</tspan>
+<tspan x="10" y="10266">503.  2017-04-21 09:24:43 +0000     7776 bytes  dist/docs/releases/v0.6.2/24.d3091d84.js</tspan>
+<tspan x="10" y="10282">504.  2017-04-21 09:24:43 +0000    13911 bytes  dist/docs/releases/v0.6.2/25.bb881f9f.js</tspan>
+<tspan x="10" y="10298">505.  2017-04-21 09:24:43 +0000     3059 bytes  dist/docs/releases/v0.6.2/26.6c68ad23.js</tspan>
+<tspan x="10" y="10314">506.  2017-04-21 09:24:43 +0000     5681 bytes  dist/docs/releases/v0.6.2/27.dac46d92.js</tspan>
+<tspan x="10" y="10330">507.  2017-04-21 09:24:43 +0000     7933 bytes  dist/docs/releases/v0.6.2/28.3b5484f8.js</tspan>
+<tspan x="10" y="10346">508.  2017-04-21 09:24:43 +0000     6663 bytes  dist/docs/releases/v0.6.2/29.cf5daabc.js</tspan>
+<tspan x="10" y="10362">509.  2017-04-21 09:24:43 +0000     7089 bytes  dist/docs/releases/v0.6.2/3.937606f3.js</tspan>
+<tspan x="10" y="10378">510.  2017-04-21 09:24:43 +0000    15661 bytes  dist/docs/releases/v0.6.2/30.a9cd11af.js</tspan>
+<tspan x="10" y="10394">511.  2017-04-21 09:24:43 +0000    10072 bytes  dist/docs/releases/v0.6.2/31.111340a6.js</tspan>
+<tspan x="10" y="10410">512.  2017-04-21 09:24:43 +0000    16614 bytes  dist/docs/releases/v0.6.2/4.94654a0e.js</tspan>
+<tspan x="10" y="10426">513.  2017-04-21 09:24:43 +0000     5152 bytes  dist/docs/releases/v0.6.2/5.f8a38ce8.js</tspan>
+<tspan x="10" y="10442">514.  2017-04-21 09:24:43 +0000    14516 bytes  dist/docs/releases/v0.6.2/6.6d779ad8.js</tspan>
+<tspan x="10" y="10458">515.  2017-04-21 09:24:43 +0000    21050 bytes  dist/docs/releases/v0.6.2/7.fea19aba.js</tspan>
+<tspan x="10" y="10474">516.  2017-04-21 09:24:43 +0000    15060 bytes  dist/docs/releases/v0.6.2/8.4a1e48b3.js</tspan>
+<tspan x="10" y="10490">517.  2017-04-21 09:24:43 +0000     9619 bytes  dist/docs/releases/v0.6.2/9.3f930309.js</tspan>
+<tspan x="10" y="10506">518.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.6.2/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="10522">519.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.2/assets/avatar.jpg</tspan>
+<tspan x="10" y="10538">520.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.6.2/assets/avatar.png</tspan>
+<tspan x="10" y="10554">521.  2017-04-21 09:24:43 +0000    65650 bytes  dist/docs/releases/v0.6.2/assets/card-example.jp\</tspan>
+<tspan x="10" y="10570">g</tspan>
+<tspan x="10" y="10586">522.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.6.2/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="10602">g</tspan>
+<tspan x="10" y="10618">523.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.6.2/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="10634">g</tspan>
+<tspan x="10" y="10650">524.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.6.2/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="10666">g</tspan>
+<tspan x="10" y="10682">525.  2017-04-21 09:24:43 +0000    36812 bytes  dist/docs/releases/v0.6.2/assets/card-sky.jpg</tspan>
+<tspan x="10" y="10698">526.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.6.2/assets/card-weather.pn\</tspan>
+<tspan x="10" y="10714">g</tspan>
+<tspan x="10" y="10730">527.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.6.2/assets/codepen.png</tspan>
+<tspan x="10" y="10746">528.  2017-04-21 09:24:43 +0000    45234 bytes  dist/docs/releases/v0.6.2/assets/cover.png</tspan>
+<tspan x="10" y="10762">529.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10778">-chrome-144x144.png</tspan>
+<tspan x="10" y="10794">530.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10810">-chrome-192x192.png</tspan>
+<tspan x="10" y="10826">531.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10842">-chrome-256x256.png</tspan>
+<tspan x="10" y="10858">532.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10874">-chrome-36x36.png</tspan>
+<tspan x="10" y="10890">533.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10906">-chrome-384x384.png</tspan>
+<tspan x="10" y="10922">534.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10938">-chrome-48x48.png</tspan>
+<tspan x="10" y="10954">535.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="10970">-chrome-512x512.png</tspan>
+<tspan x="10" y="10986">536.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="11002">-chrome-72x72.png</tspan>
+<tspan x="10" y="11018">537.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.6.2/assets/favicon/android\</tspan>
+<tspan x="10" y="11034">-chrome-96x96.png</tspan>
+<tspan x="10" y="11050">538.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.6.2/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="11066">ouch-icon.png</tspan>
+<tspan x="10" y="11082">539.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.6.2/assets/favicon/browser\</tspan>
+<tspan x="10" y="11098">config.xml</tspan>
+<tspan x="10" y="11114">540.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.6.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="11130">-16x16.png</tspan>
+<tspan x="10" y="11146">541.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.6.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="11162">-194x194.png</tspan>
+<tspan x="10" y="11178">542.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.6.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="11194">-32x32.png</tspan>
+<tspan x="10" y="11210">543.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.6.2/assets/favicon/favicon\</tspan>
+<tspan x="10" y="11226">.ico</tspan>
+<tspan x="10" y="11242">544.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.6.2/assets/favicon/manifes\</tspan>
+<tspan x="10" y="11258">t.json</tspan>
+<tspan x="10" y="11274">545.  2017-04-21 09:24:43 +0000     1711 bytes  dist/docs/releases/v0.6.2/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="11290">150x150.png</tspan>
+<tspan x="10" y="11306">546.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.6.2/assets/favicon/safari-\</tspan>
+<tspan x="10" y="11322">pinned-tab.svg</tspan>
+<tspan x="10" y="11338">547.  2017-04-21 09:24:43 +0000      944 bytes  dist/docs/releases/v0.6.2/assets/icon-github.svg</tspan>
+<tspan x="10" y="11354">548.  2017-04-21 09:24:43 +0000      199 bytes  dist/docs/releases/v0.6.2/assets/icon-home.svg</tspan>
+<tspan x="10" y="11370">549.  2017-04-21 09:24:43 +0000      116 bytes  dist/docs/releases/v0.6.2/assets/icon-menu.png</tspan>
+<tspan x="10" y="11386">550.  2017-04-21 09:24:43 +0000   112813 bytes  dist/docs/releases/v0.6.2/assets/joker-1.jpg</tspan>
+<tspan x="10" y="11402">551.  2017-04-21 09:24:43 +0000    65498 bytes  dist/docs/releases/v0.6.2/assets/joker-2.jpg</tspan>
+<tspan x="10" y="11418">552.  2017-04-21 09:24:43 +0000   116752 bytes  dist/docs/releases/v0.6.2/assets/joker-3.jpg</tspan>
+<tspan x="10" y="11434">553.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11450">al-blue-grey.png</tspan>
+<tspan x="10" y="11466">554.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11482">al-cyan.png</tspan>
+<tspan x="10" y="11498">555.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11514">al-default.png</tspan>
+<tspan x="10" y="11530">556.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11546">al-green.png</tspan>
+<tspan x="10" y="11562">557.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11578">al-indigo.png</tspan>
+<tspan x="10" y="11594">558.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11610">al-orange.png</tspan>
+<tspan x="10" y="11626">559.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11642">al-purple.png</tspan>
+<tspan x="10" y="11658">560.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.2/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="11674">al-red.png</tspan>
+<tspan x="10" y="11690">561.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.2/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="11706">562.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.6.2/assets/vue-material-ex\</tspan>
+<tspan x="10" y="11722">ample.png</tspan>
+<tspan x="10" y="11738">563.  2017-04-21 09:24:43 +0000    21055 bytes  dist/docs/releases/v0.6.2/changelog.html</tspan>
+<tspan x="10" y="11754">564.  2017-04-21 09:24:43 +0000   198196 bytes  dist/docs/releases/v0.6.2/docs.2897e9e6.js</tspan>
+<tspan x="10" y="11770">565.  2017-04-21 09:24:43 +0000    78806 bytes  dist/docs/releases/v0.6.2/docs.77420282.css</tspan>
+<tspan x="10" y="11786">566.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.6.2/index.html</tspan>
+<tspan x="10" y="11802">567.  2017-04-21 09:24:43 +0000     1676 bytes  dist/docs/releases/v0.6.2/manifest.b7f52b44.js</tspan>
+<tspan x="10" y="11818">568.  2017-04-21 09:24:43 +0000   134688 bytes  dist/docs/releases/v0.6.2/vendor.ae4be299.js</tspan>
+<tspan x="10" y="11834">569.  2017-04-21 09:24:43 +0000       46 bytes  dist/docs/releases/v0.6.2/versions.json</tspan>
+<tspan x="10" y="11850">570.  2017-04-21 09:24:43 +0000    25844 bytes  dist/docs/releases/v0.6.3/0.8985122d.js</tspan>
+<tspan x="10" y="11866">571.  2017-04-21 09:24:43 +0000     8923 bytes  dist/docs/releases/v0.6.3/1.06ee0bed.js</tspan>
+<tspan x="10" y="11882">572.  2017-04-21 09:24:43 +0000    16875 bytes  dist/docs/releases/v0.6.3/10.c7e6c3e5.js</tspan>
+<tspan x="10" y="11898">573.  2017-04-21 09:24:43 +0000     2816 bytes  dist/docs/releases/v0.6.3/11.fd21e8e8.js</tspan>
+<tspan x="10" y="11914">574.  2017-04-21 09:24:43 +0000    30606 bytes  dist/docs/releases/v0.6.3/12.cb3c1a2d.js</tspan>
+<tspan x="10" y="11930">575.  2017-04-21 09:24:43 +0000    28343 bytes  dist/docs/releases/v0.6.3/13.1cdad18e.js</tspan>
+<tspan x="10" y="11946">576.  2017-04-21 09:24:43 +0000     6587 bytes  dist/docs/releases/v0.6.3/14.fd41ec35.js</tspan>
+<tspan x="10" y="11962">577.  2017-04-21 09:24:43 +0000     4437 bytes  dist/docs/releases/v0.6.3/15.58889e3a.js</tspan>
+<tspan x="10" y="11978">578.  2017-04-21 09:24:43 +0000    38235 bytes  dist/docs/releases/v0.6.3/16.e2efe67b.js</tspan>
+<tspan x="10" y="11994">579.  2017-04-21 09:24:43 +0000    23123 bytes  dist/docs/releases/v0.6.3/17.0d923825.js</tspan>
+<tspan x="10" y="12010">580.  2017-04-21 09:24:43 +0000    21022 bytes  dist/docs/releases/v0.6.3/18.fa7c7df1.js</tspan>
+<tspan x="10" y="12026">581.  2017-04-21 09:24:43 +0000     5070 bytes  dist/docs/releases/v0.6.3/19.62eeb5ff.js</tspan>
+<tspan x="10" y="12042">582.  2017-04-21 09:24:43 +0000     7912 bytes  dist/docs/releases/v0.6.3/2.c10fbd04.js</tspan>
+<tspan x="10" y="12058">583.  2017-04-21 09:24:43 +0000     6947 bytes  dist/docs/releases/v0.6.3/20.861ee4ae.js</tspan>
+<tspan x="10" y="12074">584.  2017-04-21 09:24:43 +0000     5764 bytes  dist/docs/releases/v0.6.3/21.9fa5a6ef.js</tspan>
+<tspan x="10" y="12090">585.  2017-04-21 09:24:43 +0000     5472 bytes  dist/docs/releases/v0.6.3/22.5475b341.js</tspan>
+<tspan x="10" y="12106">586.  2017-04-21 09:24:43 +0000    14218 bytes  dist/docs/releases/v0.6.3/23.56fe1118.js</tspan>
+<tspan x="10" y="12122">587.  2017-04-21 09:24:43 +0000     7776 bytes  dist/docs/releases/v0.6.3/24.d3091d84.js</tspan>
+<tspan x="10" y="12138">588.  2017-04-21 09:24:43 +0000    13911 bytes  dist/docs/releases/v0.6.3/25.bb881f9f.js</tspan>
+<tspan x="10" y="12154">589.  2017-04-21 09:24:43 +0000     3059 bytes  dist/docs/releases/v0.6.3/26.6c68ad23.js</tspan>
+<tspan x="10" y="12170">590.  2017-04-21 09:24:43 +0000     5681 bytes  dist/docs/releases/v0.6.3/27.dac46d92.js</tspan>
+<tspan x="10" y="12186">591.  2017-04-21 09:24:43 +0000     7933 bytes  dist/docs/releases/v0.6.3/28.3b5484f8.js</tspan>
+<tspan x="10" y="12202">592.  2017-04-21 09:24:43 +0000     6663 bytes  dist/docs/releases/v0.6.3/29.cf5daabc.js</tspan>
+<tspan x="10" y="12218">593.  2017-04-21 09:24:43 +0000     7089 bytes  dist/docs/releases/v0.6.3/3.937606f3.js</tspan>
+<tspan x="10" y="12234">594.  2017-04-21 09:24:43 +0000    15661 bytes  dist/docs/releases/v0.6.3/30.a9cd11af.js</tspan>
+<tspan x="10" y="12250">595.  2017-04-21 09:24:43 +0000    10072 bytes  dist/docs/releases/v0.6.3/31.111340a6.js</tspan>
+<tspan x="10" y="12266">596.  2017-04-21 09:24:43 +0000    16614 bytes  dist/docs/releases/v0.6.3/4.94654a0e.js</tspan>
+<tspan x="10" y="12282">597.  2017-04-21 09:24:43 +0000     5152 bytes  dist/docs/releases/v0.6.3/5.f8a38ce8.js</tspan>
+<tspan x="10" y="12298">598.  2017-04-21 09:24:43 +0000    14516 bytes  dist/docs/releases/v0.6.3/6.6d779ad8.js</tspan>
+<tspan x="10" y="12314">599.  2017-04-21 09:24:43 +0000    21050 bytes  dist/docs/releases/v0.6.3/7.fea19aba.js</tspan>
+<tspan x="10" y="12330">600.  2017-04-21 09:24:43 +0000    15060 bytes  dist/docs/releases/v0.6.3/8.4a1e48b3.js</tspan>
+<tspan x="10" y="12346">601.  2017-04-21 09:24:43 +0000     9619 bytes  dist/docs/releases/v0.6.3/9.3f930309.js</tspan>
+<tspan x="10" y="12362">602.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.6.3/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="12378">603.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.3/assets/avatar.jpg</tspan>
+<tspan x="10" y="12394">604.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.6.3/assets/avatar.png</tspan>
+<tspan x="10" y="12410">605.  2017-04-21 09:24:43 +0000    65650 bytes  dist/docs/releases/v0.6.3/assets/card-example.jp\</tspan>
+<tspan x="10" y="12426">g</tspan>
+<tspan x="10" y="12442">606.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.6.3/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="12458">g</tspan>
+<tspan x="10" y="12474">607.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.6.3/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="12490">g</tspan>
+<tspan x="10" y="12506">608.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.6.3/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="12522">g</tspan>
+<tspan x="10" y="12538">609.  2017-04-21 09:24:43 +0000    36812 bytes  dist/docs/releases/v0.6.3/assets/card-sky.jpg</tspan>
+<tspan x="10" y="12554">610.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.6.3/assets/card-weather.pn\</tspan>
+<tspan x="10" y="12570">g</tspan>
+<tspan x="10" y="12586">611.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.6.3/assets/codepen.png</tspan>
+<tspan x="10" y="12602">612.  2017-04-21 09:24:43 +0000    45234 bytes  dist/docs/releases/v0.6.3/assets/cover.png</tspan>
+<tspan x="10" y="12618">613.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12634">-chrome-144x144.png</tspan>
+<tspan x="10" y="12650">614.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12666">-chrome-192x192.png</tspan>
+<tspan x="10" y="12682">615.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12698">-chrome-256x256.png</tspan>
+<tspan x="10" y="12714">616.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12730">-chrome-36x36.png</tspan>
+<tspan x="10" y="12746">617.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12762">-chrome-384x384.png</tspan>
+<tspan x="10" y="12778">618.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12794">-chrome-48x48.png</tspan>
+<tspan x="10" y="12810">619.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12826">-chrome-512x512.png</tspan>
+<tspan x="10" y="12842">620.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12858">-chrome-72x72.png</tspan>
+<tspan x="10" y="12874">621.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.6.3/assets/favicon/android\</tspan>
+<tspan x="10" y="12890">-chrome-96x96.png</tspan>
+<tspan x="10" y="12906">622.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.6.3/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="12922">ouch-icon.png</tspan>
+<tspan x="10" y="12938">623.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.6.3/assets/favicon/browser\</tspan>
+<tspan x="10" y="12954">config.xml</tspan>
+<tspan x="10" y="12970">624.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.6.3/assets/favicon/favicon\</tspan>
+<tspan x="10" y="12986">-16x16.png</tspan>
+<tspan x="10" y="13002">625.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.6.3/assets/favicon/favicon\</tspan>
+<tspan x="10" y="13018">-194x194.png</tspan>
+<tspan x="10" y="13034">626.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.6.3/assets/favicon/favicon\</tspan>
+<tspan x="10" y="13050">-32x32.png</tspan>
+<tspan x="10" y="13066">627.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.6.3/assets/favicon/favicon\</tspan>
+<tspan x="10" y="13082">.ico</tspan>
+<tspan x="10" y="13098">628.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.6.3/assets/favicon/manifes\</tspan>
+<tspan x="10" y="13114">t.json</tspan>
+<tspan x="10" y="13130">629.  2017-04-21 09:24:43 +0000     1711 bytes  dist/docs/releases/v0.6.3/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="13146">150x150.png</tspan>
+<tspan x="10" y="13162">630.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.6.3/assets/favicon/safari-\</tspan>
+<tspan x="10" y="13178">pinned-tab.svg</tspan>
+<tspan x="10" y="13194">631.  2017-04-21 09:24:43 +0000      944 bytes  dist/docs/releases/v0.6.3/assets/icon-github.svg</tspan>
+<tspan x="10" y="13210">632.  2017-04-21 09:24:43 +0000      199 bytes  dist/docs/releases/v0.6.3/assets/icon-home.svg</tspan>
+<tspan x="10" y="13226">633.  2017-04-21 09:24:43 +0000      116 bytes  dist/docs/releases/v0.6.3/assets/icon-menu.png</tspan>
+<tspan x="10" y="13242">634.  2017-04-21 09:24:43 +0000   112813 bytes  dist/docs/releases/v0.6.3/assets/joker-1.jpg</tspan>
+<tspan x="10" y="13258">635.  2017-04-21 09:24:43 +0000    65498 bytes  dist/docs/releases/v0.6.3/assets/joker-2.jpg</tspan>
+<tspan x="10" y="13274">636.  2017-04-21 09:24:43 +0000   116752 bytes  dist/docs/releases/v0.6.3/assets/joker-3.jpg</tspan>
+<tspan x="10" y="13290">637.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13306">al-blue-grey.png</tspan>
+<tspan x="10" y="13322">638.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13338">al-cyan.png</tspan>
+<tspan x="10" y="13354">639.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13370">al-default.png</tspan>
+<tspan x="10" y="13386">640.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13402">al-green.png</tspan>
+<tspan x="10" y="13418">641.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13434">al-indigo.png</tspan>
+<tspan x="10" y="13450">642.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13466">al-orange.png</tspan>
+<tspan x="10" y="13482">643.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13498">al-purple.png</tspan>
+<tspan x="10" y="13514">644.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.6.3/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="13530">al-red.png</tspan>
+<tspan x="10" y="13546">645.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.6.3/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="13562">646.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.6.3/assets/vue-material-ex\</tspan>
+<tspan x="10" y="13578">ample.png</tspan>
+<tspan x="10" y="13594">647.  2017-04-21 09:24:43 +0000    21490 bytes  dist/docs/releases/v0.6.3/changelog.html</tspan>
+<tspan x="10" y="13610">648.  2017-04-21 09:24:43 +0000    78806 bytes  dist/docs/releases/v0.6.3/docs.77420282.css</tspan>
+<tspan x="10" y="13626">649.  2017-04-21 09:24:43 +0000   198173 bytes  dist/docs/releases/v0.6.3/docs.abaf0d65.js</tspan>
+<tspan x="10" y="13642">650.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.6.3/index.html</tspan>
+<tspan x="10" y="13658">651.  2017-04-21 09:24:43 +0000     1676 bytes  dist/docs/releases/v0.6.3/manifest.2b0afab6.js</tspan>
+<tspan x="10" y="13674">652.  2017-04-21 09:24:43 +0000   134688 bytes  dist/docs/releases/v0.6.3/vendor.ae4be299.js</tspan>
+<tspan x="10" y="13690">653.  2017-04-21 09:24:43 +0000       55 bytes  dist/docs/releases/v0.6.3/versions.json</tspan>
+<tspan x="10" y="13706">654.  2017-04-21 09:24:43 +0000    11204 bytes  dist/docs/releases/v0.7.0/assets/avatar-2.jpg</tspan>
+<tspan x="10" y="13722">655.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.7.0/assets/avatar.jpg</tspan>
+<tspan x="10" y="13738">656.  2017-04-21 09:24:43 +0000     1157 bytes  dist/docs/releases/v0.7.0/assets/avatar.png</tspan>
+<tspan x="10" y="13754">657.  2017-04-21 09:24:43 +0000    65650 bytes  dist/docs/releases/v0.7.0/assets/card-example.jp\</tspan>
+<tspan x="10" y="13770">g</tspan>
+<tspan x="10" y="13786">658.  2017-04-21 09:24:43 +0000    35820 bytes  dist/docs/releases/v0.7.0/assets/card-image-1.jp\</tspan>
+<tspan x="10" y="13802">g</tspan>
+<tspan x="10" y="13818">659.  2017-04-21 09:24:43 +0000    68359 bytes  dist/docs/releases/v0.7.0/assets/card-image-2.jp\</tspan>
+<tspan x="10" y="13834">g</tspan>
+<tspan x="10" y="13850">660.  2017-04-21 09:24:43 +0000    23842 bytes  dist/docs/releases/v0.7.0/assets/card-image-3.jp\</tspan>
+<tspan x="10" y="13866">g</tspan>
+<tspan x="10" y="13882">661.  2017-04-21 09:24:43 +0000    36812 bytes  dist/docs/releases/v0.7.0/assets/card-sky.jpg</tspan>
+<tspan x="10" y="13898">662.  2017-04-21 09:24:43 +0000    17800 bytes  dist/docs/releases/v0.7.0/assets/card-weather.pn\</tspan>
+<tspan x="10" y="13914">g</tspan>
+<tspan x="10" y="13930">663.  2017-04-21 09:24:43 +0000     2094 bytes  dist/docs/releases/v0.7.0/assets/codepen.png</tspan>
+<tspan x="10" y="13946">664.  2017-04-21 09:24:43 +0000    45234 bytes  dist/docs/releases/v0.7.0/assets/cover.png</tspan>
+<tspan x="10" y="13962">665.  2017-04-21 09:24:43 +0000     5564 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="13978">-chrome-144x144.png</tspan>
+<tspan x="10" y="13994">666.  2017-04-21 09:24:43 +0000     7508 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14010">-chrome-192x192.png</tspan>
+<tspan x="10" y="14026">667.  2017-04-21 09:24:43 +0000    11017 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14042">-chrome-256x256.png</tspan>
+<tspan x="10" y="14058">668.  2017-04-21 09:24:43 +0000     1017 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14074">-chrome-36x36.png</tspan>
+<tspan x="10" y="14090">669.  2017-04-21 09:24:43 +0000    16899 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14106">-chrome-384x384.png</tspan>
+<tspan x="10" y="14122">670.  2017-04-21 09:24:43 +0000     1415 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14138">-chrome-48x48.png</tspan>
+<tspan x="10" y="14154">671.  2017-04-21 09:24:43 +0000    25042 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14170">-chrome-512x512.png</tspan>
+<tspan x="10" y="14186">672.  2017-04-21 09:24:43 +0000     2235 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14202">-chrome-72x72.png</tspan>
+<tspan x="10" y="14218">673.  2017-04-21 09:24:43 +0000     3388 bytes  dist/docs/releases/v0.7.0/assets/favicon/android\</tspan>
+<tspan x="10" y="14234">-chrome-96x96.png</tspan>
+<tspan x="10" y="14250">674.  2017-04-21 09:24:43 +0000     3378 bytes  dist/docs/releases/v0.7.0/assets/favicon/apple-t\</tspan>
+<tspan x="10" y="14266">ouch-icon.png</tspan>
+<tspan x="10" y="14282">675.  2017-04-21 09:24:43 +0000      245 bytes  dist/docs/releases/v0.7.0/assets/favicon/browser\</tspan>
+<tspan x="10" y="14298">config.xml</tspan>
+<tspan x="10" y="14314">676.  2017-04-21 09:24:43 +0000      376 bytes  dist/docs/releases/v0.7.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="14330">-16x16.png</tspan>
+<tspan x="10" y="14346">677.  2017-04-21 09:24:43 +0000     5661 bytes  dist/docs/releases/v0.7.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="14362">-194x194.png</tspan>
+<tspan x="10" y="14378">678.  2017-04-21 09:24:43 +0000      835 bytes  dist/docs/releases/v0.7.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="14394">-32x32.png</tspan>
+<tspan x="10" y="14410">679.  2017-04-21 09:24:43 +0000    15086 bytes  dist/docs/releases/v0.7.0/assets/favicon/favicon\</tspan>
+<tspan x="10" y="14426">.ico</tspan>
+<tspan x="10" y="14442">680.  2017-04-21 09:24:43 +0000     1174 bytes  dist/docs/releases/v0.7.0/assets/favicon/manifes\</tspan>
+<tspan x="10" y="14458">t.json</tspan>
+<tspan x="10" y="14474">681.  2017-04-21 09:24:43 +0000     1711 bytes  dist/docs/releases/v0.7.0/assets/favicon/mstile-\</tspan>
+<tspan x="10" y="14490">150x150.png</tspan>
+<tspan x="10" y="14506">682.  2017-04-21 09:24:43 +0000      920 bytes  dist/docs/releases/v0.7.0/assets/favicon/safari-\</tspan>
+<tspan x="10" y="14522">pinned-tab.svg</tspan>
+<tspan x="10" y="14538">683.  2017-04-21 09:24:43 +0000      944 bytes  dist/docs/releases/v0.7.0/assets/icon-github.svg</tspan>
+<tspan x="10" y="14554">684.  2017-04-21 09:24:43 +0000      199 bytes  dist/docs/releases/v0.7.0/assets/icon-home.svg</tspan>
+<tspan x="10" y="14570">685.  2017-04-21 09:24:43 +0000      116 bytes  dist/docs/releases/v0.7.0/assets/icon-menu.png</tspan>
+<tspan x="10" y="14586">686.  2017-04-21 09:24:43 +0000   112813 bytes  dist/docs/releases/v0.7.0/assets/joker-1.jpg</tspan>
+<tspan x="10" y="14602">687.  2017-04-21 09:24:43 +0000    65498 bytes  dist/docs/releases/v0.7.0/assets/joker-2.jpg</tspan>
+<tspan x="10" y="14618">688.  2017-04-21 09:24:43 +0000   116752 bytes  dist/docs/releases/v0.7.0/assets/joker-3.jpg</tspan>
+<tspan x="10" y="14634">689.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14650">al-blue-grey.png</tspan>
+<tspan x="10" y="14666">690.  2017-04-21 09:24:43 +0000     7920 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14682">al-cyan.png</tspan>
+<tspan x="10" y="14698">691.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14714">al-default.png</tspan>
+<tspan x="10" y="14730">692.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14746">al-green.png</tspan>
+<tspan x="10" y="14762">693.  2017-04-21 09:24:43 +0000     3778 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14778">al-indigo.png</tspan>
+<tspan x="10" y="14794">694.  2017-04-21 09:24:43 +0000     8161 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14810">al-orange.png</tspan>
+<tspan x="10" y="14826">695.  2017-04-21 09:24:43 +0000    13227 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14842">al-purple.png</tspan>
+<tspan x="10" y="14858">696.  2017-04-21 09:24:43 +0000     4037 bytes  dist/docs/releases/v0.7.0/assets/logo-vue-materi\</tspan>
+<tspan x="10" y="14874">al-red.png</tspan>
+<tspan x="10" y="14890">697.  2017-04-21 09:24:43 +0000     5546 bytes  dist/docs/releases/v0.7.0/assets/marcosmoura.jpg</tspan>
+<tspan x="10" y="14906">698.  2017-04-21 09:24:43 +0000   244860 bytes  dist/docs/releases/v0.7.0/assets/vue-material-ex\</tspan>
+<tspan x="10" y="14922">ample.png</tspan>
+<tspan x="10" y="14938">699.  2017-04-21 09:24:43 +0000     4277 bytes  dist/docs/releases/v0.7.0/avatar.a4498c8a.js</tspan>
+<tspan x="10" y="14954">700.  2017-04-21 09:24:43 +0000    14896 bytes  dist/docs/releases/v0.7.0/base.695f7a2d.js</tspan>
+<tspan x="10" y="14970">701.  2017-04-21 09:24:43 +0000    12141 bytes  dist/docs/releases/v0.7.0/bottom-bar.e6f88ccc.js</tspan>
+<tspan x="10" y="14986">702.  2017-04-21 09:24:43 +0000    14058 bytes  dist/docs/releases/v0.7.0/button-toggle.5458c921\</tspan>
+<tspan x="10" y="15002">.js</tspan>
+<tspan x="10" y="15018">703.  2017-04-21 09:24:43 +0000    14896 bytes  dist/docs/releases/v0.7.0/buttons.81edf435.js</tspan>
+<tspan x="10" y="15034">704.  2017-04-21 09:24:43 +0000    38075 bytes  dist/docs/releases/v0.7.0/card.37f54da4.js</tspan>
+<tspan x="10" y="15050">705.  2017-04-21 09:24:43 +0000    27591 bytes  dist/docs/releases/v0.7.0/changelog.html</tspan>
+<tspan x="10" y="15066">706.  2017-04-21 09:24:43 +0000     6505 bytes  dist/docs/releases/v0.7.0/checkbox.7603dc1d.js</tspan>
+<tspan x="10" y="15082">707.  2017-04-21 09:24:43 +0000     7775 bytes  dist/docs/releases/v0.7.0/chips.996b2d4b.js</tspan>
+<tspan x="10" y="15098">708.  2017-04-21 09:24:43 +0000    21016 bytes  dist/docs/releases/v0.7.0/dialog.774bdbaf.js</tspan>
+<tspan x="10" y="15114">709.  2017-04-21 09:24:43 +0000    95529 bytes  dist/docs/releases/v0.7.0/docs.1e68547e.css</tspan>
+<tspan x="10" y="15130">710.  2017-04-21 09:24:43 +0000   185518 bytes  dist/docs/releases/v0.7.0/docs.478f64a5.js</tspan>
+<tspan x="10" y="15146">711.  2017-04-21 09:24:43 +0000     5523 bytes  dist/docs/releases/v0.7.0/file.e75792b4.js</tspan>
+<tspan x="10" y="15162">712.  2017-04-21 09:24:43 +0000     9299 bytes  dist/docs/releases/v0.7.0/icon.5330687d.js</tspan>
+<tspan x="10" y="15178">713.  2017-04-21 09:24:43 +0000     2959 bytes  dist/docs/releases/v0.7.0/image-loader.2b5a107e.\</tspan>
+<tspan x="10" y="15194">js</tspan>
+<tspan x="10" y="15210">714.  2017-04-21 09:24:43 +0000     2019 bytes  dist/docs/releases/v0.7.0/index.html</tspan>
+<tspan x="10" y="15226">715.  2017-04-21 09:24:43 +0000     4910 bytes  dist/docs/releases/v0.7.0/ink-ripple.c6c186b1.js</tspan>
+<tspan x="10" y="15242">716.  2017-04-21 09:24:43 +0000    14353 bytes  dist/docs/releases/v0.7.0/input.ecca7906.js</tspan>
+<tspan x="10" y="15258">717.  2017-04-21 09:24:43 +0000    30723 bytes  dist/docs/releases/v0.7.0/list.21d93484.js</tspan>
+<tspan x="10" y="15274">718.  2017-04-21 09:24:43 +0000     2282 bytes  dist/docs/releases/v0.7.0/manifest.09510f01.js</tspan>
+<tspan x="10" y="15290">719.  2017-04-21 09:24:43 +0000    20862 bytes  dist/docs/releases/v0.7.0/menu.212fadff.js</tspan>
+<tspan x="10" y="15306">720.  2017-04-21 09:24:43 +0000     4987 bytes  dist/docs/releases/v0.7.0/progress.2ff899d0.js</tspan>
+<tspan x="10" y="15322">721.  2017-04-21 09:24:43 +0000    13753 bytes  dist/docs/releases/v0.7.0/radio.da972ed8.js</tspan>
+<tspan x="10" y="15338">722.  2017-04-21 09:24:43 +0000    16844 bytes  dist/docs/releases/v0.7.0/select.bff7868d.js</tspan>
+<tspan x="10" y="15354">723.  2017-04-21 09:24:43 +0000     8056 bytes  dist/docs/releases/v0.7.0/sidenav.5443196c.js</tspan>
+<tspan x="10" y="15370">724.  2017-04-21 09:24:43 +0000     7760 bytes  dist/docs/releases/v0.7.0/snackbar.00a46162.js</tspan>
+<tspan x="10" y="15386">725.  2017-04-21 09:24:43 +0000    10873 bytes  dist/docs/releases/v0.7.0/speed-dial.e07af350.js</tspan>
+<tspan x="10" y="15402">726.  2017-04-21 09:24:43 +0000     8723 bytes  dist/docs/releases/v0.7.0/spinner.ae9c0ffa.js</tspan>
+<tspan x="10" y="15418">727.  2017-04-21 09:24:43 +0000     9923 bytes  dist/docs/releases/v0.7.0/subheader.f0a1356a.js</tspan>
+<tspan x="10" y="15434">728.  2017-04-21 09:24:43 +0000     7618 bytes  dist/docs/releases/v0.7.0/switch.9aa0318e.js</tspan>
+<tspan x="10" y="15450">729.  2017-04-21 09:24:43 +0000    25679 bytes  dist/docs/releases/v0.7.0/table.295127fd.js</tspan>
+<tspan x="10" y="15466">730.  2017-04-21 09:24:43 +0000    15512 bytes  dist/docs/releases/v0.7.0/tabs.b3bab112.js</tspan>
+<tspan x="10" y="15482">731.  2017-04-21 09:24:43 +0000    23117 bytes  dist/docs/releases/v0.7.0/themes.cef94272.js</tspan>
+<tspan x="10" y="15498">732.  2017-04-21 09:24:43 +0000    28349 bytes  dist/docs/releases/v0.7.0/toolbar.44924cd1.js</tspan>
+<tspan x="10" y="15514">733.  2017-04-21 09:24:43 +0000     5604 bytes  dist/docs/releases/v0.7.0/tooltip.1eae832b.js</tspan>
+<tspan x="10" y="15530">734.  2017-04-21 09:24:43 +0000    25916 bytes  dist/docs/releases/v0.7.0/ui-elements.ac4dc67a.j\</tspan>
+<tspan x="10" y="15546">s</tspan>
+<tspan x="10" y="15562">735.  2017-04-21 09:24:43 +0000   139044 bytes  dist/docs/releases/v0.7.0/vendor.51aac3ed.js</tspan>
+<tspan x="10" y="15578">736.  2017-04-21 09:24:43 +0000       64 bytes  dist/docs/releases/v0.7.0/versions.json</tspan>
+<tspan x="10" y="15594">737.  2017-04-21 09:24:43 +0000     5312 bytes  dist/docs/releases/v0.7.0/whiteframe.7fa045b4.js</tspan>
+<tspan x="10" y="15610">738.  2017-04-21 09:24:43 +0000    16844 bytes  dist/docs/select.a1466fb5.js</tspan>
+<tspan x="10" y="15626">739.  2017-04-21 09:24:43 +0000     8056 bytes  dist/docs/sidenav.fba2cd03.js</tspan>
+<tspan x="10" y="15642">740.  2017-04-21 09:24:43 +0000     7760 bytes  dist/docs/snackbar.f7ea4b33.js</tspan>
+<tspan x="10" y="15658">741.  2017-04-21 09:24:43 +0000    10873 bytes  dist/docs/speed-dial.dd03eb33.js</tspan>
+<tspan x="10" y="15674">742.  2017-04-21 09:24:43 +0000     8723 bytes  dist/docs/spinner.43051fb4.js</tspan>
+<tspan x="10" y="15690">743.  2017-04-21 09:24:43 +0000     9923 bytes  dist/docs/subheader.5d412f8e.js</tspan>
+<tspan x="10" y="15706">744.  2017-04-21 09:24:43 +0000     7618 bytes  dist/docs/switch.4548de27.js</tspan>
+<tspan x="10" y="15722">745.  2017-04-21 09:24:43 +0000    25679 bytes  dist/docs/table.0fb9c164.js</tspan>
+<tspan x="10" y="15738">746.  2017-04-21 09:24:43 +0000    15512 bytes  dist/docs/tabs.5e48770b.js</tspan>
+<tspan x="10" y="15754">747.  2017-04-21 09:24:43 +0000    23117 bytes  dist/docs/themes.614919f9.js</tspan>
+<tspan x="10" y="15770">748.  2017-04-21 09:24:43 +0000    28349 bytes  dist/docs/toolbar.caa5dc64.js</tspan>
+<tspan x="10" y="15786">749.  2017-04-21 09:24:43 +0000     5604 bytes  dist/docs/tooltip.0834711f.js</tspan>
+<tspan x="10" y="15802">750.  2017-04-21 09:24:43 +0000    25916 bytes  dist/docs/ui-elements.775ab723.js</tspan>
+<tspan x="10" y="15818">751.  2017-04-21 09:24:43 +0000   139338 bytes  dist/docs/vendor.a3c44323.js</tspan>
+<tspan x="10" y="15834">752.  2017-04-21 09:24:43 +0000       73 bytes  dist/docs/versions.json</tspan>
+<tspan x="10" y="15850">753.  2017-04-21 09:24:43 +0000     5312 bytes  dist/docs/whiteframe.65446ff4.js</tspan>
+<tspan x="10" y="15866">754.  2017-04-21 09:24:43 +0000    96360 bytes  dist/vue-material.css</tspan>
+<tspan x="10" y="15882">755.  2017-04-21 09:24:43 +0000       93 bytes  dist/vue-material.css.map</tspan>
+<tspan x="10" y="15898">756.  2017-04-21 09:24:43 +0000   408802 bytes  dist/vue-material.debug.js</tspan>
+<tspan x="10" y="15914">757.  2017-04-21 09:24:43 +0000   177070 bytes  dist/vue-material.js</tspan>
+<tspan x="10" y="15930">758.  2017-04-21 09:24:43 +0000     2831 bytes  package.json</tspan>
+<tspan x="10" y="15946">759.  2017-04-21 09:24:43 +0000      211 bytes  src/components/mdAvatar/index.js</tspan>
+<tspan x="10" y="15962">760.  2017-04-21 09:24:43 +0000     1451 bytes  src/components/mdAvatar/mdAvatar.scss</tspan>
+<tspan x="10" y="15978">761.  2017-04-21 09:24:43 +0000      572 bytes  src/components/mdAvatar/mdAvatar.theme</tspan>
+<tspan x="10" y="15994">762.  2017-04-21 09:24:43 +0000      273 bytes  src/components/mdAvatar/mdAvatar.vue</tspan>
+<tspan x="10" y="16010">763.  2017-04-21 09:24:43 +0000      129 bytes  src/components/mdBackdrop/index.js</tspan>
+<tspan x="10" y="16026">764.  2017-04-21 09:24:43 +0000      417 bytes  src/components/mdBackdrop/mdBackdrop.scss</tspan>
+<tspan x="10" y="16042">765.  2017-04-21 09:24:43 +0000      262 bytes  src/components/mdBackdrop/mdBackdrop.vue</tspan>
+<tspan x="10" y="16058">766.  2017-04-21 09:24:43 +0000      342 bytes  src/components/mdBottomBar/index.js</tspan>
+<tspan x="10" y="16074">767.  2017-04-21 09:24:43 +0000     2002 bytes  src/components/mdBottomBar/mdBottomBar.scss</tspan>
+<tspan x="10" y="16090">768.  2017-04-21 09:24:43 +0000     2217 bytes  src/components/mdBottomBar/mdBottomBar.theme</tspan>
+<tspan x="10" y="16106">769.  2017-04-21 09:24:43 +0000      663 bytes  src/components/mdBottomBar/mdBottomBar.vue</tspan>
+<tspan x="10" y="16122">770.  2017-04-21 09:24:43 +0000     1611 bytes  src/components/mdBottomBar/mdBottomBarItem.vue</tspan>
+<tspan x="10" y="16138">771.  2017-04-21 09:24:43 +0000      211 bytes  src/components/mdButton/index.js</tspan>
+<tspan x="10" y="16154">772.  2017-04-21 09:24:43 +0000     4595 bytes  src/components/mdButton/mdButton.scss</tspan>
+<tspan x="10" y="16170">773.  2017-04-21 09:24:43 +0000     1901 bytes  src/components/mdButton/mdButton.theme</tspan>
+<tspan x="10" y="16186">774.  2017-04-21 09:24:43 +0000      931 bytes  src/components/mdButton/mdButton.vue</tspan>
+<tspan x="10" y="16202">775.  2017-04-21 09:24:43 +0000      254 bytes  src/components/mdButtonToggle/index.js</tspan>
+<tspan x="10" y="16218">776.  2017-04-21 09:24:43 +0000      752 bytes  src/components/mdButtonToggle/mdButtonToggle.scs\</tspan>
+<tspan x="10" y="16234">s</tspan>
+<tspan x="10" y="16250">777.  2017-04-21 09:24:43 +0000     1547 bytes  src/components/mdButtonToggle/mdButtonToggle.the\</tspan>
+<tspan x="10" y="16266">me</tspan>
+<tspan x="10" y="16282">778.  2017-04-21 09:24:43 +0000     1216 bytes  src/components/mdButtonToggle/mdButtonToggle.vue</tspan>
+<tspan x="10" y="16298">779.  2017-04-21 09:24:43 +0000     1116 bytes  src/components/mdCard/index.js</tspan>
+<tspan x="10" y="16314">780.  2017-04-21 09:24:43 +0000     4891 bytes  src/components/mdCard/mdCard.scss</tspan>
+<tspan x="10" y="16330">781.  2017-04-21 09:24:43 +0000     2289 bytes  src/components/mdCard/mdCard.theme</tspan>
+<tspan x="10" y="16346">782.  2017-04-21 09:24:43 +0000      446 bytes  src/components/mdCard/mdCard.vue</tspan>
+<tspan x="10" y="16362">783.  2017-04-21 09:24:43 +0000       82 bytes  src/components/mdCard/mdCardActions.vue</tspan>
+<tspan x="10" y="16378">784.  2017-04-21 09:24:43 +0000      294 bytes  src/components/mdCard/mdCardArea.vue</tspan>
+<tspan x="10" y="16394">785.  2017-04-21 09:24:43 +0000       82 bytes  src/components/mdCard/mdCardContent.vue</tspan>
+<tspan x="10" y="16410">786.  2017-04-21 09:24:43 +0000     1047 bytes  src/components/mdCard/mdCardExpand.vue</tspan>
+<tspan x="10" y="16426">787.  2017-04-21 09:24:43 +0000       81 bytes  src/components/mdCard/mdCardHeader.vue</tspan>
+<tspan x="10" y="16442">788.  2017-04-21 09:24:43 +0000      445 bytes  src/components/mdCard/mdCardHeaderText.vue</tspan>
+<tspan x="10" y="16458">789.  2017-04-21 09:24:43 +0000      712 bytes  src/components/mdCard/mdCardMedia.vue</tspan>
+<tspan x="10" y="16474">790.  2017-04-21 09:24:43 +0000       88 bytes  src/components/mdCard/mdCardMediaActions.vue</tspan>
+<tspan x="10" y="16490">791.  2017-04-21 09:24:43 +0000     1810 bytes  src/components/mdCard/mdCardMediaCover.vue</tspan>
+<tspan x="10" y="16506">792.  2017-04-21 09:24:43 +0000      225 bytes  src/components/mdCheckbox/index.js</tspan>
+<tspan x="10" y="16522">793.  2017-04-21 09:24:43 +0000     1801 bytes  src/components/mdCheckbox/mdCheckbox.scss</tspan>
+<tspan x="10" y="16538">794.  2017-04-21 09:24:43 +0000     1331 bytes  src/components/mdCheckbox/mdCheckbox.theme</tspan>
+<tspan x="10" y="16554">795.  2017-04-21 09:24:43 +0000     1305 bytes  src/components/mdCheckbox/mdCheckbox.vue</tspan>
+<tspan x="10" y="16570">796.  2017-04-21 09:24:43 +0000      275 bytes  src/components/mdChips/index.js</tspan>
+<tspan x="10" y="16586">797.  2017-04-21 09:24:43 +0000      765 bytes  src/components/mdChips/mdChip.vue</tspan>
+<tspan x="10" y="16602">798.  2017-04-21 09:24:43 +0000     1492 bytes  src/components/mdChips/mdChips.scss</tspan>
+<tspan x="10" y="16618">799.  2017-04-21 09:24:43 +0000      455 bytes  src/components/mdChips/mdChips.theme</tspan>
+<tspan x="10" y="16634">800.  2017-04-21 09:24:43 +0000     2797 bytes  src/components/mdChips/mdChips.vue</tspan>
+<tspan x="10" y="16650">801.  2017-04-21 09:24:43 +0000      880 bytes  src/components/mdDialog/index.js</tspan>
+<tspan x="10" y="16666">802.  2017-04-21 09:24:43 +0000     2488 bytes  src/components/mdDialog/mdDialog.scss</tspan>
+<tspan x="10" y="16682">803.  2017-04-21 09:24:43 +0000      139 bytes  src/components/mdDialog/mdDialog.theme</tspan>
+<tspan x="10" y="16698">804.  2017-04-21 09:24:43 +0000     4454 bytes  src/components/mdDialog/mdDialog.vue</tspan>
+<tspan x="10" y="16714">805.  2017-04-21 09:24:43 +0000       84 bytes  src/components/mdDialog/mdDialogActions.vue</tspan>
+<tspan x="10" y="16730">806.  2017-04-21 09:24:43 +0000       84 bytes  src/components/mdDialog/mdDialogContent.vue</tspan>
+<tspan x="10" y="16746">807.  2017-04-21 09:24:43 +0000       91 bytes  src/components/mdDialog/mdDialogTitle.vue</tspan>
+<tspan x="10" y="16762">808.  2017-04-21 09:24:43 +0000     1258 bytes  src/components/mdDialog/presets/mdDialogAlert.vu\</tspan>
+<tspan x="10" y="16778">e</tspan>
+<tspan x="10" y="16794">809.  2017-04-21 09:24:43 +0000     1468 bytes  src/components/mdDialog/presets/mdDialogConfirm.\</tspan>
+<tspan x="10" y="16810">vue</tspan>
+<tspan x="10" y="16826">810.  2017-04-21 09:24:43 +0000     2096 bytes  src/components/mdDialog/presets/mdDialogPrompt.v\</tspan>
+<tspan x="10" y="16842">ue</tspan>
+<tspan x="10" y="16858">811.  2017-04-21 09:24:43 +0000      125 bytes  src/components/mdDivider/index.js</tspan>
+<tspan x="10" y="16874">812.  2017-04-21 09:24:43 +0000      219 bytes  src/components/mdDivider/mdDivider.scss</tspan>
+<tspan x="10" y="16890">813.  2017-04-21 09:24:43 +0000      101 bytes  src/components/mdDivider/mdDivider.vue</tspan>
+<tspan x="10" y="16906">814.  2017-04-21 09:24:43 +0000      197 bytes  src/components/mdFile/index.js</tspan>
+<tspan x="10" y="16922">815.  2017-04-21 09:24:43 +0000      311 bytes  src/components/mdFile/mdFile.scss</tspan>
+<tspan x="10" y="16938">816.  2017-04-21 09:24:43 +0000       35 bytes  src/components/mdFile/mdFile.theme</tspan>
+<tspan x="10" y="16954">817.  2017-04-21 09:24:43 +0000     2318 bytes  src/components/mdFile/mdFile.vue</tspan>
+<tspan x="10" y="16970">818.  2017-04-21 09:24:43 +0000      197 bytes  src/components/mdIcon/index.js</tspan>
+<tspan x="10" y="16986">819.  2017-04-21 09:24:43 +0000      751 bytes  src/components/mdIcon/mdIcon.scss</tspan>
+<tspan x="10" y="17002">820.  2017-04-21 09:24:43 +0000      202 bytes  src/components/mdIcon/mdIcon.theme</tspan>
+<tspan x="10" y="17018">821.  2017-04-21 09:24:43 +0000     2379 bytes  src/components/mdIcon/mdIcon.vue</tspan>
+<tspan x="10" y="17034">822.  2017-04-21 09:24:43 +0000      204 bytes  src/components/mdImage/index.js</tspan>
+<tspan x="10" y="17050">823.  2017-04-21 09:24:43 +0000      427 bytes  src/components/mdImage/mdImage.scss</tspan>
+<tspan x="10" y="17066">824.  2017-04-21 09:24:43 +0000       36 bytes  src/components/mdImage/mdImage.theme</tspan>
+<tspan x="10" y="17082">825.  2017-04-21 09:24:43 +0000     1466 bytes  src/components/mdImage/mdImage.vue</tspan>
+<tspan x="10" y="17098">826.  2017-04-21 09:24:43 +0000     1598 bytes  src/components/mdInputContainer/common.js</tspan>
+<tspan x="10" y="17114">827.  2017-04-21 09:24:43 +0000      430 bytes  src/components/mdInputContainer/index.js</tspan>
+<tspan x="10" y="17130">828.  2017-04-21 09:24:43 +0000     1050 bytes  src/components/mdInputContainer/mdInput.vue</tspan>
+<tspan x="10" y="17146">829.  2017-04-21 09:24:43 +0000     3971 bytes  src/components/mdInputContainer/mdInputContainer\</tspan>
+<tspan x="10" y="17162">.scss</tspan>
+<tspan x="10" y="17178">830.  2017-04-21 09:24:43 +0000     1213 bytes  src/components/mdInputContainer/mdInputContainer\</tspan>
+<tspan x="10" y="17194">.theme</tspan>
+<tspan x="10" y="17210">831.  2017-04-21 09:24:43 +0000     2504 bytes  src/components/mdInputContainer/mdInputContainer\</tspan>
+<tspan x="10" y="17226">.vue</tspan>
+<tspan x="10" y="17242">832.  2017-04-21 09:24:43 +0000     1262 bytes  src/components/mdInputContainer/mdTextarea.vue</tspan>
+<tspan x="10" y="17258">833.  2017-04-21 09:24:43 +0000      121 bytes  src/components/mdLayout/index.js</tspan>
+<tspan x="10" y="17274">834.  2017-04-21 09:24:43 +0000     3254 bytes  src/components/mdLayout/mdLayout.scss</tspan>
+<tspan x="10" y="17290">835.  2017-04-21 09:24:43 +0000     5238 bytes  src/components/mdLayout/mdLayout.vue</tspan>
+<tspan x="10" y="17306">836.  2017-04-21 09:24:43 +0000      380 bytes  src/components/mdList/index.js</tspan>
+<tspan x="10" y="17322">837.  2017-04-21 09:24:43 +0000     5586 bytes  src/components/mdList/mdList.scss</tspan>
+<tspan x="10" y="17338">838.  2017-04-21 09:24:43 +0000     1154 bytes  src/components/mdList/mdList.theme</tspan>
+<tspan x="10" y="17354">839.  2017-04-21 09:24:43 +0000      267 bytes  src/components/mdList/mdList.vue</tspan>
+<tspan x="10" y="17370">840.  2017-04-21 09:24:43 +0000       91 bytes  src/components/mdList/mdListExpand.vue</tspan>
+<tspan x="10" y="17386">841.  2017-04-21 09:24:43 +0000     1717 bytes  src/components/mdList/mdListItem.js</tspan>
+<tspan x="10" y="17402">842.  2017-04-21 09:24:43 +0000      475 bytes  src/components/mdList/mdListItemButton.vue</tspan>
+<tspan x="10" y="17418">843.  2017-04-21 09:24:43 +0000      200 bytes  src/components/mdList/mdListItemDefault.vue</tspan>
+<tspan x="10" y="17434">844.  2017-04-21 09:24:43 +0000     2803 bytes  src/components/mdList/mdListItemExpand.vue</tspan>
+<tspan x="10" y="17450">845.  2017-04-21 09:24:43 +0000      515 bytes  src/components/mdList/mdListItemLink.vue</tspan>
+<tspan x="10" y="17466">846.  2017-04-21 09:24:43 +0000      382 bytes  src/components/mdList/mdListItemRouter.vue</tspan>
+<tspan x="10" y="17482">847.  2017-04-21 09:24:43 +0000      385 bytes  src/components/mdMenu/index.js</tspan>
+<tspan x="10" y="17498">848.  2017-04-21 09:24:43 +0000     2381 bytes  src/components/mdMenu/mdMenu.scss</tspan>
+<tspan x="10" y="17514">849.  2017-04-21 09:24:43 +0000      404 bytes  src/components/mdMenu/mdMenu.theme</tspan>
+<tspan x="10" y="17530">850.  2017-04-21 09:24:43 +0000     6417 bytes  src/components/mdMenu/mdMenu.vue</tspan>
+<tspan x="10" y="17546">851.  2017-04-21 09:24:43 +0000     1477 bytes  src/components/mdMenu/mdMenuContent.vue</tspan>
+<tspan x="10" y="17562">852.  2017-04-21 09:24:43 +0000     2035 bytes  src/components/mdMenu/mdMenuItem.vue</tspan>
+<tspan x="10" y="17578">853.  2017-04-21 09:24:43 +0000      225 bytes  src/components/mdProgress/index.js</tspan>
+<tspan x="10" y="17594">854.  2017-04-21 09:24:43 +0000     1307 bytes  src/components/mdProgress/mdProgress.scss</tspan>
+<tspan x="10" y="17610">855.  2017-04-21 09:24:43 +0000      912 bytes  src/components/mdProgress/mdProgress.theme</tspan>
+<tspan x="10" y="17626">856.  2017-04-21 09:24:43 +0000      784 bytes  src/components/mdProgress/mdProgress.vue</tspan>
+<tspan x="10" y="17642">857.  2017-04-21 09:24:43 +0000      204 bytes  src/components/mdRadio/index.js</tspan>
+<tspan x="10" y="17658">858.  2017-04-21 09:24:43 +0000     1377 bytes  src/components/mdRadio/mdRadio.scss</tspan>
+<tspan x="10" y="17674">859.  2017-04-21 09:24:43 +0000     1212 bytes  src/components/mdRadio/mdRadio.theme</tspan>
+<tspan x="10" y="17690">860.  2017-04-21 09:24:43 +0000     1218 bytes  src/components/mdRadio/mdRadio.vue</tspan>
+<tspan x="10" y="17706">861.  2017-04-21 09:24:43 +0000      290 bytes  src/components/mdSelect/index.js</tspan>
+<tspan x="10" y="17722">862.  2017-04-21 09:24:43 +0000     2819 bytes  src/components/mdSelect/mdOption.vue</tspan>
+<tspan x="10" y="17738">863.  2017-04-21 09:24:43 +0000     1969 bytes  src/components/mdSelect/mdSelect.scss</tspan>
+<tspan x="10" y="17754">864.  2017-04-21 09:24:43 +0000      305 bytes  src/components/mdSelect/mdSelect.theme</tspan>
+<tspan x="10" y="17770">865.  2017-04-21 09:24:43 +0000     4963 bytes  src/components/mdSelect/mdSelect.vue</tspan>
+<tspan x="10" y="17786">866.  2017-04-21 09:24:43 +0000      218 bytes  src/components/mdSidenav/index.js</tspan>
+<tspan x="10" y="17802">867.  2017-04-21 09:24:43 +0000     1174 bytes  src/components/mdSidenav/mdSidenav.scss</tspan>
+<tspan x="10" y="17818">868.  2017-04-21 09:24:43 +0000      155 bytes  src/components/mdSidenav/mdSidenav.theme</tspan>
+<tspan x="10" y="17834">869.  2017-04-21 09:24:43 +0000     3443 bytes  src/components/mdSidenav/mdSidenav.vue</tspan>
+<tspan x="10" y="17850">870.  2017-04-21 09:24:43 +0000      225 bytes  src/components/mdSnackbar/index.js</tspan>
+<tspan x="10" y="17866">871.  2017-04-21 09:24:43 +0000      134 bytes  src/components/mdSnackbar/manager.js</tspan>
+<tspan x="10" y="17882">872.  2017-04-21 09:24:43 +0000     4217 bytes  src/components/mdSnackbar/mdSnackbar.scss</tspan>
+<tspan x="10" y="17898">873.  2017-04-21 09:24:43 +0000      100 bytes  src/components/mdSnackbar/mdSnackbar.theme</tspan>
+<tspan x="10" y="17914">874.  2017-04-21 09:24:43 +0000     3980 bytes  src/components/mdSnackbar/mdSnackbar.vue</tspan>
+<tspan x="10" y="17930">875.  2017-04-21 09:24:43 +0000      233 bytes  src/components/mdSpeedDial/index.js</tspan>
+<tspan x="10" y="17946">876.  2017-04-21 09:24:43 +0000     2519 bytes  src/components/mdSpeedDial/mdSpeedDial.scss</tspan>
+<tspan x="10" y="17962">877.  2017-04-21 09:24:43 +0000       41 bytes  src/components/mdSpeedDial/mdSpeedDial.theme</tspan>
+<tspan x="10" y="17978">878.  2017-04-21 09:24:43 +0000     1909 bytes  src/components/mdSpeedDial/mdSpeedDial.vue</tspan>
+<tspan x="10" y="17994">879.  2017-04-21 09:24:43 +0000      218 bytes  src/components/mdSpinner/index.js</tspan>
+<tspan x="10" y="18010">880.  2017-04-21 09:24:43 +0000     1698 bytes  src/components/mdSpinner/mdSpinner.scss</tspan>
+<tspan x="10" y="18026">881.  2017-04-21 09:24:43 +0000      282 bytes  src/components/mdSpinner/mdSpinner.theme</tspan>
+<tspan x="10" y="18042">882.  2017-04-21 09:24:43 +0000     1330 bytes  src/components/mdSpinner/mdSpinner.vue</tspan>
+<tspan x="10" y="18058">883.  2017-04-21 09:24:43 +0000      232 bytes  src/components/mdSubheader/index.js</tspan>
+<tspan x="10" y="18074">884.  2017-04-21 09:24:43 +0000      235 bytes  src/components/mdSubheader/mdSubheader.scss</tspan>
+<tspan x="10" y="18090">885.  2017-04-21 09:24:43 +0000      207 bytes  src/components/mdSubheader/mdSubheader.theme</tspan>
+<tspan x="10" y="18106">886.  2017-04-21 09:24:43 +0000      415 bytes  src/components/mdSubheader/mdSubheader.vue</tspan>
+<tspan x="10" y="18122">887.  2017-04-21 09:24:43 +0000      211 bytes  src/components/mdSwitch/index.js</tspan>
+<tspan x="10" y="18138">888.  2017-04-21 09:24:43 +0000     1818 bytes  src/components/mdSwitch/mdSwitch.scss</tspan>
+<tspan x="10" y="18154">889.  2017-04-21 09:24:43 +0000     1090 bytes  src/components/mdSwitch/mdSwitch.theme</tspan>
+<tspan x="10" y="18170">890.  2017-04-21 09:24:43 +0000     2128 bytes  src/components/mdSwitch/mdSwitch.vue</tspan>
+<tspan x="10" y="18186">891.  2017-04-21 09:24:43 +0000     1237 bytes  src/components/mdTable/index.js</tspan>
+<tspan x="10" y="18202">892.  2017-04-21 09:24:43 +0000     6587 bytes  src/components/mdTable/mdTable.old.scss</tspan>
+<tspan x="10" y="18218">893.  2017-04-21 09:24:43 +0000     6587 bytes  src/components/mdTable/mdTable.scss</tspan>
+<tspan x="10" y="18234">894.  2017-04-21 09:24:43 +0000      427 bytes  src/components/mdTable/mdTable.theme</tspan>
+<tspan x="10" y="18250">895.  2017-04-21 09:24:43 +0000     1301 bytes  src/components/mdTable/mdTable.vue</tspan>
+<tspan x="10" y="18266">896.  2017-04-21 09:24:43 +0000     1171 bytes  src/components/mdTable/mdTableAlternateHeader.vu\</tspan>
+<tspan x="10" y="18282">e</tspan>
+<tspan x="10" y="18298">897.  2017-04-21 09:24:43 +0000      234 bytes  src/components/mdTable/mdTableCard.vue</tspan>
+<tspan x="10" y="18314">898.  2017-04-21 09:24:43 +0000      548 bytes  src/components/mdTable/mdTableCell.vue</tspan>
+<tspan x="10" y="18330">899.  2017-04-21 09:24:43 +0000     1939 bytes  src/components/mdTable/mdTableEdit.vue</tspan>
+<tspan x="10" y="18346">900.  2017-04-21 09:24:43 +0000     1845 bytes  src/components/mdTable/mdTableHead.vue</tspan>
+<tspan x="10" y="18362">901.  2017-04-21 09:24:43 +0000     2853 bytes  src/components/mdTable/mdTablePagination.vue</tspan>
+<tspan x="10" y="18378">902.  2017-04-21 09:24:43 +0000     3385 bytes  src/components/mdTable/mdTableRow.vue</tspan>
+<tspan x="10" y="18394">903.  2017-04-21 09:24:43 +0000      264 bytes  src/components/mdTabs/index.js</tspan>
+<tspan x="10" y="18410">904.  2017-04-21 09:24:43 +0000     2291 bytes  src/components/mdTabs/mdTab.vue</tspan>
+<tspan x="10" y="18426">905.  2017-04-21 09:24:43 +0000     2542 bytes  src/components/mdTabs/mdTabs.scss</tspan>
+<tspan x="10" y="18442">906.  2017-04-21 09:24:43 +0000     1869 bytes  src/components/mdTabs/mdTabs.theme</tspan>
+<tspan x="10" y="18458">907.  2017-04-21 09:24:43 +0000     6767 bytes  src/components/mdTabs/mdTabs.vue</tspan>
+<tspan x="10" y="18474">908.  2017-04-21 09:24:43 +0000      218 bytes  src/components/mdToolbar/index.js</tspan>
+<tspan x="10" y="18490">909.  2017-04-21 09:24:43 +0000     2075 bytes  src/components/mdToolbar/mdToolbar.scss</tspan>
+<tspan x="10" y="18506">910.  2017-04-21 09:24:43 +0000     1262 bytes  src/components/mdToolbar/mdToolbar.theme</tspan>
+<tspan x="10" y="18522">911.  2017-04-21 09:24:43 +0000      275 bytes  src/components/mdToolbar/mdToolbar.vue</tspan>
+<tspan x="10" y="18538">912.  2017-04-21 09:24:43 +0000      125 bytes  src/components/mdTooltip/index.js</tspan>
+<tspan x="10" y="18554">913.  2017-04-21 09:24:43 +0000     1348 bytes  src/components/mdTooltip/mdTooltip.scss</tspan>
+<tspan x="10" y="18570">914.  2017-04-21 09:24:43 +0000     4648 bytes  src/components/mdTooltip/mdTooltip.vue</tspan>
+<tspan x="10" y="18586">915.  2017-04-21 09:24:43 +0000      137 bytes  src/components/mdWhiteframe/index.js</tspan>
+<tspan x="10" y="18602">916.  2017-04-21 09:24:43 +0000     1576 bytes  src/components/mdWhiteframe/mdWhiteframe.scss</tspan>
+<tspan x="10" y="18618">917.  2017-04-21 09:24:43 +0000      909 bytes  src/components/mdWhiteframe/mdWhiteframe.vue</tspan>
+<tspan x="10" y="18634">918.  2017-04-21 09:24:43 +0000      134 bytes  src/core/components/mdInkRipple/index.js</tspan>
+<tspan x="10" y="18650">919.  2017-04-21 09:24:43 +0000      815 bytes  src/core/components/mdInkRipple/mdInkRipple.scss</tspan>
+<tspan x="10" y="18666">920.  2017-04-21 09:24:43 +0000     5615 bytes  src/core/components/mdInkRipple/mdInkRipple.vue</tspan>
+<tspan x="10" y="18682">921.  2017-04-21 09:24:43 +0000     4745 bytes  src/core/components/mdTheme/index.js</tspan>
+<tspan x="10" y="18698">922.  2017-04-21 09:24:43 +0000      450 bytes  src/core/components/mdTheme/mdTheme.vue</tspan>
+<tspan x="10" y="18714">923.  2017-04-21 09:24:43 +0000      993 bytes  src/core/components/mdTheme/mixin.js</tspan>
+<tspan x="10" y="18730">924.  2017-04-21 09:24:43 +0000     7574 bytes  src/core/components/mdTheme/palette.js</tspan>
+<tspan x="10" y="18746">925.  2017-04-21 09:24:43 +0000      863 bytes  src/core/components/mdTheme/rgba.js</tspan>
+<tspan x="10" y="18762">926.  2017-04-21 09:24:43 +0000      481 bytes  src/core/index.js</tspan>
+<tspan x="10" y="18778">927.  2017-04-21 09:24:43 +0000     1323 bytes  src/core/stylesheets/base.scss</tspan>
+<tspan x="10" y="18794">928.  2017-04-21 09:24:43 +0000       88 bytes  src/core/stylesheets/core.scss</tspan>
+<tspan x="10" y="18810">929.  2017-04-21 09:24:43 +0000      621 bytes  src/core/stylesheets/core.theme</tspan>
+<tspan x="10" y="18826">930.  2017-04-21 09:24:43 +0000     1249 bytes  src/core/stylesheets/mixins.scss</tspan>
+<tspan x="10" y="18842">931.  2017-04-21 09:24:43 +0000      822 bytes  src/core/stylesheets/scrollbar.scss</tspan>
+<tspan x="10" y="18858">932.  2017-04-21 09:24:43 +0000     1395 bytes  src/core/stylesheets/typography.scss</tspan>
+<tspan x="10" y="18874">933.  2017-04-21 09:24:43 +0000     7521 bytes  src/core/stylesheets/variables.scss</tspan>
+<tspan x="10" y="18890">934.  2017-04-21 09:24:43 +0000      433 bytes  src/core/utils/animationEndEventName.js</tspan>
+<tspan x="10" y="18906">935.  2017-04-21 09:24:43 +0000      257 bytes  src/core/utils/debounce.js</tspan>
+<tspan x="10" y="18922">936.  2017-04-21 09:24:43 +0000      331 bytes  src/core/utils/getClosestVueParent.js</tspan>
+<tspan x="10" y="18938">937.  2017-04-21 09:24:43 +0000      911 bytes  src/core/utils/getImageLightness.js</tspan>
+<tspan x="10" y="18954">938.  2017-04-21 09:24:43 +0000     1407 bytes  src/core/utils/getInViewPosition.js</tspan>
+<tspan x="10" y="18970">939.  2017-04-21 09:24:43 +0000      104 bytes  src/core/utils/isArray.js</tspan>
+<tspan x="10" y="18986">940.  2017-04-21 09:24:43 +0000      249 bytes  src/core/utils/throttle.js</tspan>
+<tspan x="10" y="19002">941.  2017-04-21 09:24:43 +0000      437 bytes  src/core/utils/transitionEndEventName.js</tspan>
+<tspan x="10" y="19018">942.  2017-04-21 09:24:43 +0000      100 bytes  src/core/utils/uniqueId.js</tspan>
+<tspan x="10" y="19034">943.  2017-04-21 09:24:43 +0000     2177 bytes  src/index.js</tspan>
+</text>
+</svg>
